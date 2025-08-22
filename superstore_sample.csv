@@ -1,0 +1,601 @@
+Order ID,Order Date,Ship Date,Ship Mode,Customer ID,Customer Name,Segment,Country,City,State,Postal Code,Region,Product ID,Category,Sub-Category,Product Name,Sales,Quantity,Discount,Profit
+ORD-10000,2023-06-24,2023-06-29,First Class,CUST-1250,Customer 1250,Consumer,United Kingdom,Birmingham,Scotland,23434,East,PROD-858,Furniture,Bookcases,Bookcases 381,320.33,2,0.57,-18.8
+ORD-10001,2023-04-21,2023-04-27,First Class,CUST-1030,Customer 1030,Consumer,United Kingdom,Birmingham,England,76237,East,PROD-127,Technology,Accessories,Accessories 132,990.88,3,0.09,181.67
+ORD-10002,2023-07-19,2023-07-23,Standard Class,CUST-1558,Customer 1558,Corporate,United Kingdom,Birmingham,Wales,87236,West,PROD-928,Technology,Machines,Machines 818,426.65,1,0.08,85.4
+ORD-10003,2023-04-19,2023-04-20,Second Class,CUST-1348,Customer 1348,Corporate,United Kingdom,Birmingham,England,54118,East,PROD-194,Furniture,Bookcases,Bookcases 532,819.81,4,0.16,58.22
+ORD-10004,2023-07-20,2023-07-26,First Class,CUST-1352,Customer 1352,Home Office,United Kingdom,Manchester,England,70217,South,PROD-227,Furniture,Tables,Tables 967,274.22,1,0.05,34.8
+ORD-10005,2023-06-01,2023-06-07,Second Class,CUST-1849,Customer 1849,Home Office,United Kingdom,Bristol,Wales,85674,South,PROD-821,Furniture,Bookcases,Bookcases 400,522.96,3,0.04,61.77
+ORD-10006,2023-03-20,2023-03-21,Standard Class,CUST-1791,Customer 1791,Corporate,United Kingdom,London,England,23238,East,PROD-384,Furniture,Bookcases,Bookcases 333,740.2,3,0.1,62.08
+ORD-10007,2023-07-10,2023-07-14,First Class,CUST-1379,Customer 1379,Corporate,United Kingdom,Birmingham,Scotland,44993,South,PROD-799,Technology,Accessories,Accessories 266,1319.25,3,0.26,185.28
+ORD-10008,2023-07-19,2023-07-20,Standard Class,CUST-1546,Customer 1546,Home Office,United Kingdom,Birmingham,England,70589,East,PROD-376,Technology,Machines,Machines 275,1756.89,4,0.18,295.56
+ORD-10009,2023-05-11,2023-05-18,Standard Class,CUST-1786,Customer 1786,Consumer,United Kingdom,Birmingham,England,51347,West,PROD-374,Technology,Accessories,Accessories 963,1432.05,2,0.06,284.13
+ORD-10010,2023-10-01,2023-10-03,Standard Class,CUST-1735,Customer 1735,Corporate,United Kingdom,Birmingham,Scotland,75435,East,PROD-758,Furniture,Bookcases,Bookcases 997,862.83,3,0.31,25.86
+ORD-10011,2023-09-07,2023-09-14,First Class,CUST-1252,Customer 1252,Home Office,United Kingdom,Bristol,Scotland,44438,South,PROD-698,Furniture,Tables,Tables 242,691.91,3,0.24,30.68
+ORD-10012,2023-11-04,2023-11-11,Second Class,CUST-1224,Customer 1224,Consumer,United Kingdom,Bristol,Wales,21915,South,PROD-981,Technology,Accessories,Accessories 470,684.05,2,0.12,125.13
+ORD-10013,2023-07-19,2023-07-24,Standard Class,CUST-1811,Customer 1811,Home Office,United Kingdom,Leeds,Scotland,18326,East,PROD-490,Furniture,Bookcases,Bookcases 263,254.52,1,0.39,-0.53
+ORD-10014,2023-05-18,2023-05-25,First Class,CUST-1881,Customer 1881,Consumer,United Kingdom,Cardiff,Scotland,25014,South,PROD-649,Technology,Accessories,Accessories 666,537.14,1,0.28,79.97
+ORD-10015,2023-07-01,2023-07-02,First Class,CUST-1300,Customer 1300,Corporate,United Kingdom,Birmingham,Wales,10425,Central,PROD-996,Technology,Accessories,Accessories 214,2016.86,5,0.06,411.69
+ORD-10016,2023-07-25,2023-08-01,First Class,CUST-1934,Customer 1934,Consumer,United Kingdom,Glasgow,Scotland,49117,Central,PROD-619,Technology,Phones,Phones 619,1393.08,3,0.09,267.25
+ORD-10017,2023-04-29,2023-05-01,First Class,CUST-1165,Customer 1165,Home Office,United Kingdom,Glasgow,Scotland,10074,West,PROD-431,Furniture,Tables,Tables 880,752.93,3,0.14,59.49
+ORD-10018,2023-08-01,2023-08-05,First Class,CUST-1899,Customer 1899,Corporate,United Kingdom,Birmingham,England,41571,South,PROD-180,Furniture,Chairs,Chairs 471,268.79,1,0.17,22.78
+ORD-10019,2023-06-09,2023-06-15,First Class,CUST-1070,Customer 1070,Home Office,United Kingdom,Glasgow,England,26828,East,PROD-586,Technology,Accessories,Accessories 935,1247.79,2,0.16,209.85
+ORD-10020,2023-08-18,2023-08-25,First Class,CUST-1621,Customer 1621,Corporate,United Kingdom,Birmingham,Scotland,36365,West,PROD-419,Office Supplies,Storage,Storage 993,56.96,2,0.16,8.25
+ORD-10021,2023-06-11,2023-06-14,Second Class,CUST-1448,Customer 1448,Home Office,United Kingdom,Leeds,England,42493,South,PROD-165,Technology,Machines,Machines 482,502.9,3,0.06,103.56
+ORD-10022,2024-02-14,2024-02-15,First Class,CUST-1235,Customer 1235,Home Office,United Kingdom,Birmingham,England,19305,Central,PROD-746,Furniture,Bookcases,Bookcases 667,498.26,2,0.15,39.9
+ORD-10023,2023-07-03,2023-07-07,Standard Class,CUST-1880,Customer 1880,Corporate,United Kingdom,London,Scotland,41195,East,PROD-785,Furniture,Chairs,Chairs 132,216.07,1,0.26,13.36
+ORD-10024,2023-07-11,2023-07-17,Standard Class,CUST-1740,Customer 1740,Home Office,United Kingdom,Bristol,Wales,41850,South,PROD-926,Furniture,Bookcases,Bookcases 235,801.96,3,0.08,71.27
+ORD-10025,2023-07-24,2023-07-31,Standard Class,CUST-1674,Customer 1674,Corporate,United Kingdom,Manchester,Wales,63883,South,PROD-984,Furniture,Chairs,Chairs 199,1271.54,4,0.08,141.33
+ORD-10026,2023-09-03,2023-09-07,Second Class,CUST-1100,Customer 1100,Consumer,United Kingdom,Leeds,Scotland,54473,East,PROD-354,Technology,Machines,Machines 761,638.2,3,0.45,51.97
+ORD-10027,2023-05-30,2023-06-01,Second Class,CUST-1143,Customer 1143,Corporate,United Kingdom,Birmingham,Wales,70637,West,PROD-995,Furniture,Bookcases,Bookcases 559,643.82,3,0.19,41.2
+ORD-10028,2023-04-08,2023-04-12,Second Class,CUST-1051,Customer 1051,Home Office,United Kingdom,Bristol,England,22224,East,PROD-270,Office Supplies,Storage,Storage 200,179.9,3,0.13,15.41
+ORD-10029,2023-04-08,2023-04-15,Second Class,CUST-1885,Customer 1885,Corporate,United Kingdom,London,England,59672,South,PROD-499,Office Supplies,Binders,Binders 318,61.48,2,0.37,0.98
+ORD-10030,2023-07-30,2023-08-04,First Class,CUST-1713,Customer 1713,Home Office,United Kingdom,Glasgow,Scotland,96752,Central,PROD-598,Office Supplies,Binders,Binders 533,178.11,4,0.46,5.06
+ORD-10031,2023-05-06,2023-05-11,Second Class,CUST-1991,Customer 1991,Consumer,United Kingdom,Bristol,Scotland,81066,West,PROD-865,Furniture,Tables,Tables 322,611.52,4,0.09,49.72
+ORD-10032,2023-05-12,2023-05-14,Second Class,CUST-1488,Customer 1488,Home Office,United Kingdom,Glasgow,Scotland,30635,Central,PROD-620,Furniture,Chairs,Chairs 698,978.06,2,0.13,79.96
+ORD-10033,2023-06-13,2023-06-17,Second Class,CUST-1069,Customer 1069,Home Office,United Kingdom,Glasgow,England,62923,East,PROD-683,Furniture,Chairs,Chairs 709,1106.85,3,0.04,119.89
+ORD-10034,2023-06-09,2023-06-14,First Class,CUST-1634,Customer 1634,Consumer,United Kingdom,Leeds,Scotland,86503,West,PROD-635,Technology,Machines,Machines 140,658.55,2,0.19,114.61
+ORD-10035,2023-07-19,2023-07-21,Second Class,CUST-1733,Customer 1733,Corporate,United Kingdom,Birmingham,Wales,61876,Central,PROD-787,Office Supplies,Paper,Paper 785,180.42,3,0.03,32.77
+ORD-10036,2023-08-08,2023-08-12,First Class,CUST-1958,Customer 1958,Consumer,United Kingdom,London,Wales,91416,Central,PROD-202,Office Supplies,Binders,Binders 869,175.9,3,0.08,27.55
+ORD-10037,2023-05-06,2023-05-07,Standard Class,CUST-1271,Customer 1271,Consumer,United Kingdom,Manchester,England,42018,East,PROD-391,Technology,Phones,Phones 618,1051.94,3,0.27,156.34
+ORD-10038,2023-08-15,2023-08-20,Second Class,CUST-1309,Customer 1309,Home Office,United Kingdom,Glasgow,Scotland,79329,West,PROD-783,Office Supplies,Storage,Storage 820,237.45,5,0.25,24.89
+ORD-10039,2023-08-02,2023-08-04,Second Class,CUST-1137,Customer 1137,Corporate,United Kingdom,London,England,82512,Central,PROD-378,Technology,Phones,Phones 999,821.62,2,0.23,122.15
+ORD-10040,2023-03-02,2023-03-07,First Class,CUST-1351,Customer 1351,Consumer,United Kingdom,Cardiff,Scotland,44600,Central,PROD-600,Technology,Phones,Phones 834,1615.57,3,0.13,291.35
+ORD-10041,2023-02-15,2023-02-22,Second Class,CUST-1433,Customer 1433,Corporate,United Kingdom,London,England,53719,Central,PROD-752,Furniture,Chairs,Chairs 749,524.06,4,0.07,54.24
+ORD-10042,2023-06-29,2023-07-03,Second Class,CUST-1564,Customer 1564,Home Office,United Kingdom,Leeds,Scotland,11267,Central,PROD-177,Furniture,Bookcases,Bookcases 552,725.53,3,0.21,43.64
+ORD-10043,2023-06-05,2023-06-08,Second Class,CUST-1378,Customer 1378,Home Office,United Kingdom,Bristol,England,66333,West,PROD-142,Technology,Phones,Phones 954,1030.11,3,0.2,159.98
+ORD-10044,2023-03-31,2023-04-03,Standard Class,CUST-1215,Customer 1215,Home Office,United Kingdom,Birmingham,Scotland,23473,Central,PROD-898,Office Supplies,Paper,Paper 466,154.68,4,0.31,10.46
+ORD-10045,2023-08-07,2023-08-08,Standard Class,CUST-1947,Customer 1947,Consumer,United Kingdom,Glasgow,England,33206,South,PROD-125,Technology,Machines,Machines 258,361.2,1,0.04,67.13
+ORD-10046,2023-04-13,2023-04-19,Standard Class,CUST-1953,Customer 1953,Corporate,United Kingdom,Glasgow,Scotland,42527,West,PROD-263,Technology,Accessories,Accessories 901,483.14,2,0.36,52.7
+ORD-10047,2023-02-25,2023-02-28,Standard Class,CUST-1481,Customer 1481,Consumer,United Kingdom,Birmingham,Wales,55830,East,PROD-940,Office Supplies,Paper,Paper 979,126.68,4,0.15,14.68
+ORD-10048,2023-06-11,2023-06-16,Standard Class,CUST-1197,Customer 1197,Corporate,United Kingdom,Manchester,Wales,19099,West,PROD-459,Furniture,Chairs,Chairs 775,679.57,3,0.03,78.0
+ORD-10049,2023-08-09,2023-08-16,First Class,CUST-1961,Customer 1961,Consumer,United Kingdom,London,Wales,33405,South,PROD-371,Technology,Machines,Machines 439,1716.32,4,0.3,223.46
+ORD-10050,2023-08-06,2023-08-13,First Class,CUST-1353,Customer 1353,Home Office,United Kingdom,Glasgow,Wales,67199,East,PROD-623,Furniture,Bookcases,Bookcases 544,1085.04,3,0.19,59.56
+ORD-10051,2023-07-25,2023-07-31,First Class,CUST-1260,Customer 1260,Consumer,United Kingdom,Cardiff,Wales,10221,East,PROD-925,Office Supplies,Storage,Storage 294,100.79,2,0.08,16.86
+ORD-10052,2023-08-23,2023-08-27,First Class,CUST-1971,Customer 1971,Home Office,United Kingdom,Manchester,Scotland,51145,West,PROD-968,Office Supplies,Binders,Binders 171,89.22,2,0.11,5.91
+ORD-10053,2023-06-15,2023-06-16,First Class,CUST-1316,Customer 1316,Home Office,United Kingdom,Leeds,Wales,62743,East,PROD-402,Technology,Accessories,Accessories 619,784.96,2,0.28,104.38
+ORD-10054,2023-04-19,2023-04-24,First Class,CUST-1962,Customer 1962,Corporate,United Kingdom,Cardiff,Scotland,32810,West,PROD-682,Furniture,Tables,Tables 780,752.44,2,0.52,-32.89
+ORD-10055,2023-11-06,2023-11-09,First Class,CUST-1000,Customer 1000,Corporate,United Kingdom,Manchester,England,66346,Central,PROD-721,Office Supplies,Storage,Storage 953,100.43,2,0.11,11.88
+ORD-10056,2023-12-24,2023-12-26,First Class,CUST-1691,Customer 1691,Consumer,United Kingdom,Bristol,Wales,32241,Central,PROD-186,Office Supplies,Binders,Binders 552,100.43,2,0.03,22.77
+ORD-10057,2023-09-21,2023-09-22,Standard Class,CUST-1634,Customer 1634,Corporate,United Kingdom,London,England,98184,Central,PROD-330,Technology,Machines,Machines 748,307.47,1,0.31,40.08
+ORD-10058,2023-02-11,2023-02-13,Standard Class,CUST-1250,Customer 1250,Corporate,United Kingdom,Bristol,England,69692,West,PROD-744,Furniture,Chairs,Chairs 147,511.61,2,0.09,55.49
+ORD-10059,2023-04-01,2023-04-03,First Class,CUST-1506,Customer 1506,Corporate,United Kingdom,Birmingham,England,95990,West,PROD-105,Technology,Machines,Machines 493,398.65,1,0.04,76.62
+ORD-10060,2023-07-18,2023-07-24,First Class,CUST-1823,Customer 1823,Home Office,United Kingdom,Bristol,Wales,16582,East,PROD-355,Office Supplies,Paper,Paper 280,93.94,3,0.1,17.85
+ORD-10061,2023-07-29,2023-08-04,Standard Class,CUST-1475,Customer 1475,Home Office,United Kingdom,Bristol,Scotland,88047,East,PROD-873,Office Supplies,Paper,Paper 920,58.17,2,0.14,9.36
+ORD-10062,2023-05-21,2023-05-26,Standard Class,CUST-1436,Customer 1436,Home Office,United Kingdom,Leeds,England,72216,South,PROD-365,Technology,Machines,Machines 616,643.56,2,0.18,110.63
+ORD-10063,2023-06-27,2023-07-04,Standard Class,CUST-1796,Customer 1796,Home Office,United Kingdom,Leeds,Scotland,41358,West,PROD-550,Technology,Accessories,Accessories 884,1497.66,4,0.19,251.64
+ORD-10064,2023-07-07,2023-07-11,Second Class,CUST-1278,Customer 1278,Corporate,United Kingdom,Manchester,Scotland,20561,East,PROD-254,Technology,Accessories,Accessories 340,771.24,2,0.18,125.86
+ORD-10065,2023-06-28,2023-07-02,Standard Class,CUST-1723,Customer 1723,Consumer,United Kingdom,London,Wales,63424,West,PROD-655,Office Supplies,Storage,Storage 256,199.37,4,0.02,32.7
+ORD-10066,2023-07-11,2023-07-12,First Class,CUST-1852,Customer 1852,Corporate,United Kingdom,Leeds,Scotland,12560,South,PROD-489,Office Supplies,Paper,Paper 311,219.62,5,0.1,33.42
+ORD-10067,2023-03-06,2023-03-13,First Class,CUST-1771,Customer 1771,Corporate,United Kingdom,Glasgow,Wales,80545,South,PROD-852,Furniture,Tables,Tables 405,996.18,4,0.22,58.84
+ORD-10068,2023-04-29,2023-05-04,First Class,CUST-1446,Customer 1446,Corporate,United Kingdom,London,Wales,54057,West,PROD-795,Office Supplies,Paper,Paper 379,71.66,2,0.25,2.63
+ORD-10069,2023-04-25,2023-04-27,Standard Class,CUST-1478,Customer 1478,Consumer,United Kingdom,Bristol,Scotland,13534,South,PROD-706,Technology,Phones,Phones 960,806.54,2,0.11,158.66
+ORD-10070,2023-05-13,2023-05-20,Standard Class,CUST-1138,Customer 1138,Corporate,United Kingdom,Birmingham,England,44099,East,PROD-435,Furniture,Bookcases,Bookcases 538,897.23,3,0.13,85.89
+ORD-10071,2023-05-28,2023-06-02,Second Class,CUST-1779,Customer 1779,Corporate,United Kingdom,Manchester,Wales,43065,West,PROD-581,Office Supplies,Binders,Binders 445,91.54,3,0.28,18.22
+ORD-10072,2023-03-27,2023-04-02,First Class,CUST-1974,Customer 1974,Corporate,United Kingdom,Birmingham,Scotland,18993,East,PROD-141,Technology,Machines,Machines 153,900.52,2,0.15,153.94
+ORD-10073,2023-09-09,2023-09-10,Standard Class,CUST-1020,Customer 1020,Home Office,United Kingdom,Birmingham,England,26544,East,PROD-785,Furniture,Chairs,Chairs 959,627.84,2,0.07,60.86
+ORD-10074,2023-03-05,2023-03-06,First Class,CUST-1716,Customer 1716,Corporate,United Kingdom,Glasgow,Wales,31992,East,PROD-721,Technology,Phones,Phones 576,393.48,1,0.1,73.42
+ORD-10075,2023-03-21,2023-03-26,Standard Class,CUST-1592,Customer 1592,Consumer,United Kingdom,Manchester,Scotland,98781,East,PROD-506,Furniture,Tables,Tables 210,363.42,2,0.12,28.29
+ORD-10076,2023-02-12,2023-02-17,First Class,CUST-1850,Customer 1850,Home Office,United Kingdom,Birmingham,England,49529,West,PROD-714,Furniture,Bookcases,Bookcases 807,834.84,5,0.54,-40.95
+ORD-10077,2023-06-03,2023-06-08,First Class,CUST-1545,Customer 1545,Corporate,United Kingdom,Cardiff,Wales,19038,East,PROD-763,Technology,Phones,Phones 455,1133.78,3,0.22,173.32
+ORD-10078,2023-08-06,2023-08-09,Standard Class,CUST-1501,Customer 1501,Consumer,United Kingdom,Leeds,Wales,93307,Central,PROD-824,Furniture,Tables,Tables 942,495.96,3,0.09,44.92
+ORD-10079,2023-04-28,2023-05-04,Standard Class,CUST-1534,Customer 1534,Home Office,United Kingdom,Manchester,Scotland,80539,West,PROD-576,Office Supplies,Paper,Paper 851,107.82,2,0.05,19.42
+ORD-10080,2023-03-15,2023-03-17,Standard Class,CUST-1330,Customer 1330,Consumer,United Kingdom,Glasgow,England,46559,South,PROD-349,Technology,Machines,Machines 374,1469.27,3,0.29,193.04
+ORD-10081,2023-08-05,2023-08-06,Second Class,CUST-1388,Customer 1388,Corporate,United Kingdom,London,Wales,52600,South,PROD-599,Technology,Machines,Machines 784,334.61,1,0.25,59.29
+ORD-10082,2023-07-08,2023-07-14,Second Class,CUST-1286,Customer 1286,Home Office,United Kingdom,Cardiff,Wales,82848,West,PROD-629,Office Supplies,Binders,Binders 448,62.25,1,0.21,7.24
+ORD-10083,2023-09-05,2023-09-10,First Class,CUST-1416,Customer 1416,Corporate,United Kingdom,Bristol,England,72402,West,PROD-828,Furniture,Chairs,Chairs 837,1141.78,4,0.13,83.28
+ORD-10084,2023-03-14,2023-03-16,Standard Class,CUST-1301,Customer 1301,Consumer,United Kingdom,Leeds,Scotland,41890,South,PROD-779,Office Supplies,Paper,Paper 195,93.87,3,0.2,6.65
+ORD-10085,2023-03-11,2023-03-18,Standard Class,CUST-1352,Customer 1352,Corporate,United Kingdom,Cardiff,Scotland,53357,Central,PROD-819,Office Supplies,Storage,Storage 643,124.79,3,0.21,16.09
+ORD-10086,2023-02-25,2023-03-01,Second Class,CUST-1236,Customer 1236,Consumer,United Kingdom,Cardiff,England,51359,South,PROD-860,Office Supplies,Binders,Binders 357,64.19,2,0.02,12.07
+ORD-10087,2023-04-30,2023-05-03,First Class,CUST-1495,Customer 1495,Corporate,United Kingdom,Cardiff,Scotland,78765,West,PROD-389,Furniture,Chairs,Chairs 856,845.44,2,0.29,28.99
+ORD-10088,2023-11-04,2023-11-07,Second Class,CUST-1369,Customer 1369,Consumer,United Kingdom,Manchester,England,80010,East,PROD-380,Furniture,Tables,Tables 332,889.2,3,0.23,37.72
+ORD-10089,2023-05-17,2023-05-22,Second Class,CUST-1714,Customer 1714,Consumer,United Kingdom,Cardiff,Wales,23446,East,PROD-687,Furniture,Bookcases,Bookcases 399,517.35,2,0.02,54.88
+ORD-10090,2023-07-03,2023-07-06,Second Class,CUST-1348,Customer 1348,Consumer,United Kingdom,London,Wales,72616,Central,PROD-941,Office Supplies,Binders,Binders 551,96.36,2,0.15,13.49
+ORD-10091,2023-04-23,2023-04-27,Second Class,CUST-1590,Customer 1590,Home Office,United Kingdom,Cardiff,England,29887,East,PROD-930,Office Supplies,Binders,Binders 175,157.59,4,0.0,29.24
+ORD-10092,2023-09-08,2023-09-13,Second Class,CUST-1571,Customer 1571,Corporate,United Kingdom,Bristol,Scotland,91057,Central,PROD-894,Furniture,Chairs,Chairs 221,813.68,3,0.04,91.44
+ORD-10093,2023-05-24,2023-05-31,First Class,CUST-1880,Customer 1880,Home Office,United Kingdom,Leeds,Wales,84531,South,PROD-161,Office Supplies,Binders,Binders 404,160.98,5,0.14,30.9
+ORD-10094,2023-06-01,2023-06-06,Second Class,CUST-1270,Customer 1270,Home Office,United Kingdom,London,England,41439,East,PROD-665,Furniture,Bookcases,Bookcases 316,181.1,1,0.08,17.21
+ORD-10095,2023-06-05,2023-06-09,Second Class,CUST-1461,Customer 1461,Home Office,United Kingdom,Bristol,Wales,48175,East,PROD-337,Furniture,Chairs,Chairs 518,701.85,3,0.12,59.79
+ORD-10096,2023-06-24,2023-06-29,Standard Class,CUST-1880,Customer 1880,Corporate,United Kingdom,London,Scotland,40595,Central,PROD-906,Technology,Accessories,Accessories 819,775.03,2,0.15,138.79
+ORD-10097,2024-01-02,2024-01-05,Second Class,CUST-1230,Customer 1230,Home Office,United Kingdom,Birmingham,Wales,28643,West,PROD-161,Office Supplies,Paper,Paper 657,157.75,3,0.2,30.72
+ORD-10098,2023-07-29,2023-07-31,Standard Class,CUST-1844,Customer 1844,Home Office,United Kingdom,Manchester,Wales,26299,West,PROD-805,Office Supplies,Storage,Storage 866,29.46,1,0.22,3.01
+ORD-10099,2023-05-09,2023-05-12,First Class,CUST-1512,Customer 1512,Home Office,United Kingdom,Leeds,Wales,20543,Central,PROD-140,Technology,Accessories,Accessories 378,608.41,2,0.06,120.31
+ORD-10100,2023-06-05,2023-06-10,First Class,CUST-1256,Customer 1256,Consumer,United Kingdom,London,England,98381,South,PROD-701,Technology,Accessories,Accessories 718,1681.48,5,0.08,332.49
+ORD-10101,2023-04-28,2023-05-02,Standard Class,CUST-1041,Customer 1041,Consumer,United Kingdom,Leeds,Scotland,95394,East,PROD-384,Technology,Accessories,Accessories 690,1382.62,3,0.2,220.38
+ORD-10102,2023-05-30,2023-06-05,Standard Class,CUST-1833,Customer 1833,Corporate,United Kingdom,London,Wales,55607,West,PROD-441,Technology,Accessories,Accessories 750,1764.69,4,0.1,330.34
+ORD-10103,2023-05-31,2023-06-05,Standard Class,CUST-1164,Customer 1164,Corporate,United Kingdom,Leeds,Scotland,74942,Central,PROD-778,Technology,Phones,Phones 978,852.6,2,0.12,159.92
+ORD-10104,2023-06-02,2023-06-06,Standard Class,CUST-1090,Customer 1090,Corporate,United Kingdom,Manchester,Wales,25194,South,PROD-985,Technology,Phones,Phones 565,975.11,3,0.18,171.97
+ORD-10105,2023-04-08,2023-04-12,First Class,CUST-1423,Customer 1423,Consumer,United Kingdom,Birmingham,Scotland,57419,East,PROD-874,Technology,Machines,Machines 573,311.54,2,0.17,46.5
+ORD-10106,2023-05-09,2023-05-14,Standard Class,CUST-1052,Customer 1052,Consumer,United Kingdom,Manchester,Scotland,27172,South,PROD-548,Technology,Accessories,Accessories 878,1021.91,3,0.07,205.51
+ORD-10107,2023-06-06,2023-06-10,First Class,CUST-1623,Customer 1623,Consumer,United Kingdom,Cardiff,England,50730,South,PROD-114,Furniture,Chairs,Chairs 745,198.11,1,0.13,9.79
+ORD-10108,2023-09-13,2023-09-16,Second Class,CUST-1934,Customer 1934,Consumer,United Kingdom,Leeds,England,94896,South,PROD-610,Furniture,Chairs,Chairs 961,852.77,3,0.18,57.27
+ORD-10109,2023-07-11,2023-07-12,First Class,CUST-1425,Customer 1425,Corporate,United Kingdom,Leeds,England,69871,Central,PROD-248,Technology,Machines,Machines 379,472.74,1,0.04,102.78
+ORD-10110,2023-02-25,2023-03-02,Standard Class,CUST-1764,Customer 1764,Consumer,United Kingdom,Glasgow,England,46208,South,PROD-448,Furniture,Bookcases,Bookcases 620,323.32,2,0.04,40.99
+ORD-10111,2023-07-13,2023-07-14,Second Class,CUST-1305,Customer 1305,Home Office,United Kingdom,Bristol,Scotland,74178,Central,PROD-557,Furniture,Tables,Tables 843,414.35,2,0.14,44.33
+ORD-10112,2023-05-19,2023-05-21,Second Class,CUST-1781,Customer 1781,Home Office,United Kingdom,Leeds,Wales,52176,South,PROD-814,Office Supplies,Binders,Binders 665,91.9,3,0.08,17.5
+ORD-10113,2023-03-27,2023-03-29,First Class,CUST-1876,Customer 1876,Corporate,United Kingdom,London,Wales,71993,West,PROD-930,Technology,Accessories,Accessories 339,2043.82,4,0.18,343.75
+ORD-10114,2023-07-05,2023-07-08,Second Class,CUST-1840,Customer 1840,Home Office,United Kingdom,Birmingham,Wales,14852,South,PROD-614,Office Supplies,Storage,Storage 911,187.68,5,0.31,24.76
+ORD-10115,2023-04-23,2023-04-27,Standard Class,CUST-1538,Customer 1538,Corporate,United Kingdom,London,Scotland,28894,Central,PROD-991,Furniture,Tables,Tables 202,210.3,1,0.16,10.48
+ORD-10116,2023-07-14,2023-07-15,First Class,CUST-1992,Customer 1992,Corporate,United Kingdom,Manchester,Scotland,62098,West,PROD-182,Furniture,Tables,Tables 900,497.97,2,0.05,50.6
+ORD-10117,2023-06-14,2023-06-16,First Class,CUST-1977,Customer 1977,Corporate,United Kingdom,Cardiff,Scotland,73956,Central,PROD-136,Technology,Machines,Machines 489,1177.76,2,0.04,250.21
+ORD-10118,2023-05-14,2023-05-16,Standard Class,CUST-1943,Customer 1943,Corporate,United Kingdom,Birmingham,Scotland,21846,East,PROD-200,Furniture,Bookcases,Bookcases 800,1179.94,4,0.33,17.96
+ORD-10119,2023-08-26,2023-08-28,Standard Class,CUST-1306,Customer 1306,Consumer,United Kingdom,London,Wales,17355,East,PROD-467,Office Supplies,Paper,Paper 810,91.86,2,0.16,10.67
+ORD-10120,2023-06-28,2023-07-05,Second Class,CUST-1543,Customer 1543,Corporate,United Kingdom,Bristol,Scotland,33600,Central,PROD-279,Office Supplies,Paper,Paper 350,107.57,2,0.02,18.28
+ORD-10121,2023-03-13,2023-03-17,Second Class,CUST-1699,Customer 1699,Consumer,United Kingdom,Leeds,Scotland,28758,East,PROD-572,Technology,Accessories,Accessories 734,1577.48,4,0.34,187.41
+ORD-10122,2023-03-03,2023-03-04,Second Class,CUST-1009,Customer 1009,Corporate,United Kingdom,Manchester,Scotland,81643,Central,PROD-175,Office Supplies,Binders,Binders 782,62.19,2,0.08,15.73
+ORD-10123,2023-07-11,2023-07-18,Standard Class,CUST-1654,Customer 1654,Corporate,United Kingdom,Cardiff,Wales,69878,South,PROD-303,Office Supplies,Storage,Storage 406,109.08,3,0.19,13.23
+ORD-10124,2023-05-12,2023-05-17,First Class,CUST-1390,Customer 1390,Home Office,United Kingdom,Manchester,Scotland,48780,South,PROD-402,Office Supplies,Paper,Paper 342,42.29,1,0.08,-5.68
+ORD-10125,2023-05-25,2023-05-28,First Class,CUST-1008,Customer 1008,Home Office,United Kingdom,Glasgow,Scotland,16428,East,PROD-863,Technology,Accessories,Accessories 381,1951.81,3,0.18,327.22
+ORD-10126,2023-04-14,2023-04-20,First Class,CUST-1821,Customer 1821,Corporate,United Kingdom,Birmingham,Scotland,34920,South,PROD-356,Office Supplies,Paper,Paper 721,198.65,4,0.05,32.64
+ORD-10127,2023-06-02,2023-06-05,First Class,CUST-1661,Customer 1661,Consumer,United Kingdom,Manchester,Wales,14373,West,PROD-473,Technology,Phones,Phones 742,1271.12,3,0.16,212.92
+ORD-10128,2023-04-06,2023-04-08,First Class,CUST-1765,Customer 1765,Corporate,United Kingdom,Birmingham,England,27322,West,PROD-997,Furniture,Tables,Tables 434,386.97,3,0.26,13.71
+ORD-10129,2023-08-24,2023-08-27,First Class,CUST-1850,Customer 1850,Consumer,United Kingdom,Manchester,Wales,48684,Central,PROD-991,Technology,Machines,Machines 379,1415.06,3,0.16,242.08
+ORD-10130,2023-05-10,2023-05-14,Standard Class,CUST-1144,Customer 1144,Consumer,United Kingdom,Glasgow,Scotland,98395,Central,PROD-966,Furniture,Tables,Tables 177,1013.61,3,0.24,54.21
+ORD-10131,2023-05-02,2023-05-08,First Class,CUST-1270,Customer 1270,Home Office,United Kingdom,London,Wales,58311,Central,PROD-866,Furniture,Tables,Tables 114,690.38,2,0.19,43.79
+ORD-10132,2023-02-28,2023-03-03,Standard Class,CUST-1653,Customer 1653,Corporate,United Kingdom,London,Scotland,40647,Central,PROD-125,Technology,Accessories,Accessories 942,1444.79,3,0.17,245.58
+ORD-10133,2023-05-09,2023-05-14,First Class,CUST-1064,Customer 1064,Home Office,United Kingdom,Glasgow,Wales,49608,Central,PROD-518,Technology,Phones,Phones 763,1366.21,3,0.41,136.37
+ORD-10134,2023-06-07,2023-06-12,First Class,CUST-1311,Customer 1311,Corporate,United Kingdom,London,England,40775,East,PROD-238,Furniture,Chairs,Chairs 138,352.63,2,0.17,27.09
+ORD-10135,2023-04-15,2023-04-17,First Class,CUST-1972,Customer 1972,Home Office,United Kingdom,Cardiff,Scotland,64935,South,PROD-860,Office Supplies,Binders,Binders 786,114.82,3,0.26,17.47
+ORD-10136,2023-06-06,2023-06-08,Second Class,CUST-1853,Customer 1853,Corporate,United Kingdom,Bristol,Wales,46666,West,PROD-806,Office Supplies,Storage,Storage 201,229.98,5,0.07,33.1
+ORD-10137,2023-07-18,2023-07-20,First Class,CUST-1973,Customer 1973,Consumer,United Kingdom,Glasgow,Wales,23022,Central,PROD-476,Furniture,Tables,Tables 555,588.0,2,0.29,18.15
+ORD-10138,2023-05-15,2023-05-21,First Class,CUST-1194,Customer 1194,Consumer,United Kingdom,Glasgow,Wales,22015,Central,PROD-317,Furniture,Tables,Tables 382,1013.14,4,0.21,59.09
+ORD-10139,2023-05-15,2023-05-18,Second Class,CUST-1128,Customer 1128,Home Office,United Kingdom,Birmingham,England,82641,East,PROD-700,Furniture,Tables,Tables 349,1877.1,5,0.17,127.46
+ORD-10140,2023-08-08,2023-08-14,Second Class,CUST-1151,Customer 1151,Home Office,United Kingdom,London,Wales,28964,West,PROD-653,Furniture,Tables,Tables 892,256.54,2,0.24,7.24
+ORD-10141,2023-04-16,2023-04-18,Second Class,CUST-1887,Customer 1887,Consumer,United Kingdom,Birmingham,England,56955,Central,PROD-702,Furniture,Chairs,Chairs 776,421.86,2,0.14,25.12
+ORD-10142,2023-05-05,2023-05-07,Second Class,CUST-1053,Customer 1053,Consumer,United Kingdom,Cardiff,Wales,78955,Central,PROD-863,Furniture,Chairs,Chairs 371,375.44,1,0.19,20.25
+ORD-10143,2023-06-27,2023-06-29,First Class,CUST-1370,Customer 1370,Home Office,United Kingdom,Bristol,England,69245,East,PROD-326,Office Supplies,Binders,Binders 896,77.33,2,0.05,6.69
+ORD-10144,2023-03-22,2023-03-26,Standard Class,CUST-1308,Customer 1308,Corporate,United Kingdom,Cardiff,England,17972,East,PROD-967,Technology,Machines,Machines 633,985.55,2,0.04,201.56
+ORD-10145,2023-05-31,2023-06-05,Standard Class,CUST-1502,Customer 1502,Home Office,United Kingdom,Leeds,England,20589,South,PROD-722,Office Supplies,Storage,Storage 210,152.84,5,0.05,28.76
+ORD-10146,2023-03-21,2023-03-28,Standard Class,CUST-1639,Customer 1639,Home Office,United Kingdom,Bristol,Scotland,52622,West,PROD-711,Furniture,Chairs,Chairs 381,283.68,1,0.19,23.96
+ORD-10147,2023-07-25,2023-07-31,First Class,CUST-1440,Customer 1440,Consumer,United Kingdom,Glasgow,Scotland,24996,Central,PROD-766,Office Supplies,Storage,Storage 719,46.82,1,0.22,1.56
+ORD-10148,2023-03-24,2023-03-26,Standard Class,CUST-1423,Customer 1423,Corporate,United Kingdom,Glasgow,Wales,62262,West,PROD-847,Office Supplies,Binders,Binders 333,149.19,4,0.17,23.33
+ORD-10149,2023-04-12,2023-04-13,Second Class,CUST-1681,Customer 1681,Corporate,United Kingdom,Manchester,England,72163,East,PROD-193,Office Supplies,Binders,Binders 420,138.37,3,0.2,-0.34
+ORD-10150,2023-06-06,2023-06-10,Second Class,CUST-1762,Customer 1762,Home Office,United Kingdom,Manchester,England,82924,East,PROD-700,Furniture,Tables,Tables 198,359.1,2,0.12,23.75
+ORD-10151,2023-05-07,2023-05-10,Standard Class,CUST-1362,Customer 1362,Home Office,United Kingdom,Glasgow,Wales,16743,Central,PROD-714,Technology,Phones,Phones 520,1910.04,4,0.4,189.7
+ORD-10152,2023-04-09,2023-04-13,Second Class,CUST-1519,Customer 1519,Consumer,United Kingdom,Birmingham,Scotland,73201,Central,PROD-967,Office Supplies,Paper,Paper 691,174.76,3,0.35,9.6
+ORD-10153,2023-07-31,2023-08-05,First Class,CUST-1117,Customer 1117,Corporate,United Kingdom,Bristol,England,66244,East,PROD-885,Office Supplies,Storage,Storage 476,115.37,3,0.34,-0.01
+ORD-10154,2023-07-25,2023-07-27,First Class,CUST-1710,Customer 1710,Corporate,United Kingdom,London,England,45818,East,PROD-880,Technology,Machines,Machines 949,1116.24,3,0.04,236.15
+ORD-10155,2023-03-04,2023-03-09,Second Class,CUST-1185,Customer 1185,Consumer,United Kingdom,Bristol,Scotland,62531,Central,PROD-245,Office Supplies,Binders,Binders 106,159.27,4,0.35,22.25
+ORD-10156,2023-05-19,2023-05-23,Second Class,CUST-1220,Customer 1220,Corporate,United Kingdom,Leeds,Wales,54681,East,PROD-478,Furniture,Bookcases,Bookcases 643,609.85,2,0.04,67.47
+ORD-10157,2023-06-09,2023-06-11,Second Class,CUST-1964,Customer 1964,Home Office,United Kingdom,Bristol,England,16895,Central,PROD-261,Technology,Accessories,Accessories 895,416.21,2,0.06,81.05
+ORD-10158,2023-06-08,2023-06-12,Standard Class,CUST-1453,Customer 1453,Home Office,United Kingdom,Leeds,Wales,89570,East,PROD-524,Technology,Phones,Phones 378,1563.91,3,0.14,279.67
+ORD-10159,2023-08-12,2023-08-13,First Class,CUST-1353,Customer 1353,Corporate,United Kingdom,London,Wales,98895,Central,PROD-707,Furniture,Bookcases,Bookcases 216,446.9,3,0.06,51.37
+ORD-10160,2023-08-20,2023-08-26,Second Class,CUST-1046,Customer 1046,Consumer,United Kingdom,Leeds,Scotland,17180,South,PROD-309,Technology,Machines,Machines 415,1210.72,3,0.09,237.22
+ORD-10161,2023-04-02,2023-04-03,Standard Class,CUST-1261,Customer 1261,Corporate,United Kingdom,Manchester,England,11013,Central,PROD-864,Furniture,Chairs,Chairs 882,412.5,2,0.18,31.86
+ORD-10162,2023-09-15,2023-09-19,First Class,CUST-1545,Customer 1545,Home Office,United Kingdom,Birmingham,Scotland,83233,South,PROD-925,Furniture,Chairs,Chairs 489,1068.99,4,0.06,98.39
+ORD-10163,2023-04-20,2023-04-24,Second Class,CUST-1759,Customer 1759,Consumer,United Kingdom,Leeds,England,70260,Central,PROD-982,Furniture,Tables,Tables 982,531.57,2,0.1,44.93
+ORD-10164,2023-07-21,2023-07-27,Second Class,CUST-1414,Customer 1414,Home Office,United Kingdom,Cardiff,Wales,47947,Central,PROD-514,Technology,Accessories,Accessories 687,1013.26,2,0.22,149.56
+ORD-10165,2023-05-14,2023-05-17,Second Class,CUST-1970,Customer 1970,Home Office,United Kingdom,Leeds,Scotland,57428,East,PROD-547,Office Supplies,Paper,Paper 920,79.68,2,0.26,-0.74
+ORD-10166,2023-07-07,2023-07-14,First Class,CUST-1410,Customer 1410,Home Office,United Kingdom,London,Wales,50668,East,PROD-447,Furniture,Tables,Tables 703,1226.0,4,0.22,68.59
+ORD-10167,2023-05-07,2023-05-10,Second Class,CUST-1522,Customer 1522,Home Office,United Kingdom,London,Scotland,76840,West,PROD-894,Office Supplies,Paper,Paper 178,106.4,2,0.05,22.28
+ORD-10168,2023-10-03,2023-10-05,Standard Class,CUST-1660,Customer 1660,Consumer,United Kingdom,Birmingham,England,29194,Central,PROD-302,Office Supplies,Storage,Storage 938,113.01,5,0.05,16.78
+ORD-10169,2023-04-04,2023-04-10,Standard Class,CUST-1777,Customer 1777,Home Office,United Kingdom,London,England,92306,West,PROD-575,Technology,Phones,Phones 878,196.14,1,0.43,24.16
+ORD-10170,2023-06-02,2023-06-08,Second Class,CUST-1650,Customer 1650,Home Office,United Kingdom,Manchester,Scotland,51436,South,PROD-550,Technology,Machines,Machines 758,670.95,2,0.19,109.92
+ORD-10171,2023-09-30,2023-10-03,First Class,CUST-1310,Customer 1310,Corporate,United Kingdom,Bristol,England,56129,East,PROD-175,Office Supplies,Binders,Binders 746,120.73,4,0.11,14.5
+ORD-10172,2023-05-26,2023-05-30,First Class,CUST-1058,Customer 1058,Corporate,United Kingdom,Glasgow,Wales,20057,Central,PROD-984,Office Supplies,Binders,Binders 138,177.33,4,0.11,25.21
+ORD-10173,2023-07-16,2023-07-17,Standard Class,CUST-1393,Customer 1393,Corporate,United Kingdom,Bristol,Scotland,15376,East,PROD-929,Technology,Machines,Machines 619,1870.25,3,0.07,367.38
+ORD-10174,2023-08-21,2023-08-22,Standard Class,CUST-1513,Customer 1513,Consumer,United Kingdom,London,Wales,23566,West,PROD-831,Office Supplies,Storage,Storage 587,44.27,1,0.13,14.62
+ORD-10175,2023-06-19,2023-06-22,First Class,CUST-1040,Customer 1040,Consumer,United Kingdom,Cardiff,Wales,67595,East,PROD-635,Technology,Machines,Machines 276,1032.23,3,0.04,216.71
+ORD-10176,2023-03-19,2023-03-23,First Class,CUST-1396,Customer 1396,Corporate,United Kingdom,Glasgow,Wales,98984,West,PROD-153,Office Supplies,Binders,Binders 389,41.2,1,0.17,0.32
+ORD-10177,2023-05-01,2023-05-03,First Class,CUST-1571,Customer 1571,Home Office,United Kingdom,Leeds,Wales,43029,Central,PROD-972,Furniture,Tables,Tables 196,353.54,2,0.08,35.78
+ORD-10178,2023-05-02,2023-05-06,First Class,CUST-1679,Customer 1679,Consumer,United Kingdom,Manchester,Wales,95990,West,PROD-778,Office Supplies,Paper,Paper 696,168.35,4,0.1,35.42
+ORD-10179,2023-08-10,2023-08-17,First Class,CUST-1960,Customer 1960,Consumer,United Kingdom,Manchester,Scotland,59372,South,PROD-910,Furniture,Bookcases,Bookcases 825,510.05,2,0.21,26.05
+ORD-10180,2023-07-18,2023-07-19,First Class,CUST-1848,Customer 1848,Home Office,United Kingdom,Cardiff,Scotland,22249,Central,PROD-786,Furniture,Bookcases,Bookcases 819,284.98,1,0.18,17.23
+ORD-10181,2023-04-08,2023-04-15,Standard Class,CUST-1371,Customer 1371,Corporate,United Kingdom,Birmingham,England,54791,South,PROD-296,Technology,Accessories,Accessories 118,889.86,2,0.12,152.31
+ORD-10182,2023-11-30,2023-12-02,Second Class,CUST-1302,Customer 1302,Consumer,United Kingdom,Bristol,Scotland,79013,West,PROD-777,Furniture,Chairs,Chairs 179,465.07,3,0.13,42.19
+ORD-10183,2023-10-16,2023-10-23,Second Class,CUST-1385,Customer 1385,Consumer,United Kingdom,Birmingham,England,91885,Central,PROD-838,Technology,Phones,Phones 711,567.67,1,0.18,90.24
+ORD-10184,2023-08-18,2023-08-23,Standard Class,CUST-1692,Customer 1692,Home Office,United Kingdom,Birmingham,Wales,90031,South,PROD-870,Furniture,Tables,Tables 473,353.89,2,0.19,25.49
+ORD-10185,2023-10-23,2023-10-26,First Class,CUST-1316,Customer 1316,Corporate,United Kingdom,Glasgow,England,58213,South,PROD-684,Furniture,Bookcases,Bookcases 344,1281.26,5,0.22,65.43
+ORD-10186,2023-09-01,2023-09-05,Second Class,CUST-1391,Customer 1391,Home Office,United Kingdom,Bristol,Wales,31241,South,PROD-920,Office Supplies,Binders,Binders 896,36.06,2,0.1,10.81
+ORD-10187,2023-07-15,2023-07-17,Second Class,CUST-1492,Customer 1492,Corporate,United Kingdom,Bristol,England,77621,West,PROD-391,Office Supplies,Paper,Paper 756,128.48,2,0.04,28.07
+ORD-10188,2023-05-22,2023-05-29,Second Class,CUST-1927,Customer 1927,Home Office,United Kingdom,Birmingham,Wales,22021,East,PROD-936,Furniture,Tables,Tables 560,178.37,1,0.23,10.12
+ORD-10189,2023-05-22,2023-05-29,Standard Class,CUST-1054,Customer 1054,Corporate,United Kingdom,Bristol,Wales,40903,South,PROD-183,Office Supplies,Paper,Paper 524,109.23,4,0.13,11.54
+ORD-10190,2023-04-19,2023-04-23,Standard Class,CUST-1953,Customer 1953,Consumer,United Kingdom,Glasgow,Scotland,95191,Central,PROD-910,Furniture,Chairs,Chairs 426,270.32,1,0.23,19.49
+ORD-10191,2023-05-10,2023-05-12,Standard Class,CUST-1939,Customer 1939,Corporate,United Kingdom,Cardiff,England,71487,West,PROD-730,Furniture,Chairs,Chairs 393,1040.26,4,0.18,67.15
+ORD-10192,2023-04-15,2023-04-18,First Class,CUST-1220,Customer 1220,Consumer,United Kingdom,Bristol,Scotland,89807,East,PROD-533,Furniture,Chairs,Chairs 362,1484.61,4,0.18,104.2
+ORD-10193,2023-06-17,2023-06-21,First Class,CUST-1124,Customer 1124,Consumer,United Kingdom,Birmingham,Wales,93748,East,PROD-568,Office Supplies,Paper,Paper 408,68.26,2,0.16,3.98
+ORD-10194,2023-07-24,2023-07-31,Second Class,CUST-1548,Customer 1548,Consumer,United Kingdom,Cardiff,Scotland,85372,East,PROD-835,Furniture,Tables,Tables 711,654.3,2,0.04,73.11
+ORD-10195,2023-03-17,2023-03-20,Second Class,CUST-1629,Customer 1629,Corporate,United Kingdom,Birmingham,Scotland,64600,West,PROD-780,Office Supplies,Binders,Binders 101,63.81,3,0.06,8.82
+ORD-10196,2023-05-14,2023-05-20,First Class,CUST-1976,Customer 1976,Home Office,United Kingdom,Bristol,Scotland,76535,East,PROD-120,Technology,Accessories,Accessories 169,1493.51,4,0.17,251.11
+ORD-10197,2023-07-25,2023-08-01,Standard Class,CUST-1396,Customer 1396,Corporate,United Kingdom,Manchester,Scotland,12128,South,PROD-907,Office Supplies,Paper,Paper 750,44.68,2,0.13,5.21
+ORD-10198,2023-02-26,2023-03-03,Second Class,CUST-1672,Customer 1672,Home Office,United Kingdom,London,Scotland,53583,East,PROD-145,Office Supplies,Paper,Paper 850,82.07,3,0.05,18.04
+ORD-10199,2023-05-14,2023-05-20,First Class,CUST-1658,Customer 1658,Consumer,United Kingdom,Glasgow,Scotland,70899,Central,PROD-590,Technology,Accessories,Accessories 933,409.76,2,0.06,87.07
+ORD-10200,2023-05-16,2023-05-17,Second Class,CUST-1794,Customer 1794,Corporate,United Kingdom,London,Wales,36422,West,PROD-910,Furniture,Chairs,Chairs 833,269.89,1,0.2,21.2
+ORD-10201,2023-02-22,2023-03-01,Standard Class,CUST-1527,Customer 1527,Corporate,United Kingdom,Glasgow,Scotland,72049,West,PROD-137,Furniture,Tables,Tables 417,441.71,2,0.05,45.02
+ORD-10202,2023-04-04,2023-04-08,Standard Class,CUST-1799,Customer 1799,Consumer,United Kingdom,Glasgow,Scotland,53506,West,PROD-227,Office Supplies,Binders,Binders 982,198.15,3,0.09,33.37
+ORD-10203,2023-04-14,2023-04-15,First Class,CUST-1450,Customer 1450,Corporate,United Kingdom,Manchester,England,75038,Central,PROD-609,Office Supplies,Binders,Binders 861,123.82,3,0.11,10.24
+ORD-10204,2023-12-14,2023-12-19,First Class,CUST-1084,Customer 1084,Home Office,United Kingdom,Leeds,England,66440,Central,PROD-942,Technology,Accessories,Accessories 920,1396.27,2,0.08,275.11
+ORD-10205,2023-02-05,2023-02-07,Standard Class,CUST-1105,Customer 1105,Consumer,United Kingdom,Manchester,Scotland,48750,West,PROD-556,Technology,Accessories,Accessories 428,445.28,1,0.12,78.17
+ORD-10206,2023-05-27,2023-06-01,First Class,CUST-1359,Customer 1359,Corporate,United Kingdom,London,Scotland,56210,South,PROD-545,Furniture,Bookcases,Bookcases 554,227.98,1,0.11,16.29
+ORD-10207,2023-03-18,2023-03-19,First Class,CUST-1687,Customer 1687,Home Office,United Kingdom,Leeds,Wales,77251,Central,PROD-795,Technology,Phones,Phones 176,1026.1,3,0.16,173.42
+ORD-10208,2023-05-04,2023-05-06,Second Class,CUST-1622,Customer 1622,Home Office,United Kingdom,Glasgow,Wales,14561,West,PROD-168,Furniture,Chairs,Chairs 969,529.01,2,0.08,55.07
+ORD-10209,2023-04-19,2023-04-21,First Class,CUST-1392,Customer 1392,Home Office,United Kingdom,London,Scotland,30111,West,PROD-560,Technology,Accessories,Accessories 470,2164.56,4,0.02,464.38
+ORD-10210,2023-06-16,2023-06-18,Standard Class,CUST-1078,Customer 1078,Home Office,United Kingdom,Birmingham,Scotland,58096,Central,PROD-421,Office Supplies,Binders,Binders 881,166.16,3,0.14,27.52
+ORD-10211,2023-04-03,2023-04-08,First Class,CUST-1753,Customer 1753,Consumer,United Kingdom,Leeds,Scotland,60723,Central,PROD-220,Furniture,Chairs,Chairs 126,523.98,2,0.05,61.45
+ORD-10212,2023-04-13,2023-04-20,Second Class,CUST-1219,Customer 1219,Home Office,United Kingdom,Manchester,Scotland,74382,Central,PROD-225,Office Supplies,Storage,Storage 556,213.66,4,0.19,19.64
+ORD-10213,2023-09-19,2023-09-22,Standard Class,CUST-1920,Customer 1920,Home Office,United Kingdom,Leeds,England,99381,West,PROD-783,Furniture,Tables,Tables 276,336.98,3,0.22,23.83
+ORD-10214,2023-05-05,2023-05-06,Second Class,CUST-1555,Customer 1555,Corporate,United Kingdom,Manchester,England,93584,Central,PROD-912,Technology,Phones,Phones 663,284.27,1,0.08,62.7
+ORD-10215,2023-05-11,2023-05-17,Standard Class,CUST-1205,Customer 1205,Consumer,United Kingdom,Birmingham,Wales,13445,Central,PROD-667,Technology,Phones,Phones 224,825.72,2,0.2,142.29
+ORD-10216,2023-03-21,2023-03-27,First Class,CUST-1626,Customer 1626,Consumer,United Kingdom,London,Wales,62187,Central,PROD-836,Office Supplies,Storage,Storage 232,116.82,3,0.2,12.24
+ORD-10217,2023-07-10,2023-07-14,First Class,CUST-1419,Customer 1419,Home Office,United Kingdom,London,England,51553,South,PROD-175,Technology,Accessories,Accessories 887,593.11,2,0.16,104.0
+ORD-10218,2023-04-20,2023-04-23,First Class,CUST-1352,Customer 1352,Consumer,United Kingdom,Glasgow,Scotland,93859,South,PROD-286,Office Supplies,Storage,Storage 629,54.48,2,0.08,6.14
+ORD-10219,2023-05-24,2023-05-28,Second Class,CUST-1056,Customer 1056,Consumer,United Kingdom,Bristol,England,49862,West,PROD-265,Office Supplies,Storage,Storage 989,131.68,3,0.09,24.42
+ORD-10220,2023-08-10,2023-08-17,Second Class,CUST-1970,Customer 1970,Home Office,United Kingdom,Manchester,England,42847,Central,PROD-750,Technology,Phones,Phones 454,688.33,2,0.21,109.27
+ORD-10221,2023-06-07,2023-06-11,Second Class,CUST-1629,Customer 1629,Home Office,United Kingdom,London,Scotland,94015,Central,PROD-706,Furniture,Bookcases,Bookcases 410,597.33,3,0.18,39.24
+ORD-10222,2023-05-22,2023-05-26,Second Class,CUST-1737,Customer 1737,Home Office,United Kingdom,Manchester,Scotland,15399,West,PROD-183,Furniture,Bookcases,Bookcases 739,807.44,3,0.32,16.11
+ORD-10223,2023-06-06,2023-06-08,First Class,CUST-1666,Customer 1666,Consumer,United Kingdom,Glasgow,Scotland,64602,East,PROD-754,Technology,Machines,Machines 371,464.37,1,0.11,80.99
+ORD-10224,2023-05-14,2023-05-18,First Class,CUST-1296,Customer 1296,Home Office,United Kingdom,Manchester,Wales,42096,East,PROD-515,Office Supplies,Storage,Storage 658,110.89,4,0.06,21.91
+ORD-10225,2023-12-08,2023-12-12,Standard Class,CUST-1061,Customer 1061,Consumer,United Kingdom,Leeds,Wales,73471,Central,PROD-308,Office Supplies,Paper,Paper 805,97.44,3,0.27,13.93
+ORD-10226,2023-07-12,2023-07-17,Standard Class,CUST-1882,Customer 1882,Home Office,United Kingdom,Manchester,Scotland,55268,Central,PROD-233,Technology,Phones,Phones 420,1368.02,3,0.23,208.14
+ORD-10227,2023-03-28,2023-04-04,Standard Class,CUST-1326,Customer 1326,Consumer,United Kingdom,Leeds,England,45058,Central,PROD-353,Technology,Machines,Machines 208,1131.22,3,0.18,188.85
+ORD-10228,2023-09-15,2023-09-19,Second Class,CUST-1968,Customer 1968,Corporate,United Kingdom,Glasgow,Scotland,64805,West,PROD-986,Furniture,Chairs,Chairs 397,850.66,3,0.07,82.52
+ORD-10229,2023-04-05,2023-04-11,First Class,CUST-1320,Customer 1320,Consumer,United Kingdom,Glasgow,England,75308,West,PROD-578,Office Supplies,Storage,Storage 838,73.65,2,0.02,12.93
+ORD-10230,2023-09-05,2023-09-06,Second Class,CUST-1092,Customer 1092,Corporate,United Kingdom,Bristol,Wales,41552,South,PROD-697,Office Supplies,Binders,Binders 123,48.14,1,0.18,12.51
+ORD-10231,2023-02-01,2023-02-06,Standard Class,CUST-1506,Customer 1506,Home Office,United Kingdom,Glasgow,Scotland,98148,Central,PROD-392,Furniture,Chairs,Chairs 388,1070.97,4,0.27,39.22
+ORD-10232,2023-02-21,2023-02-23,Standard Class,CUST-1903,Customer 1903,Corporate,United Kingdom,Cardiff,Wales,62855,East,PROD-146,Furniture,Tables,Tables 237,355.36,2,0.21,24.91
+ORD-10233,2023-06-02,2023-06-08,Standard Class,CUST-1199,Customer 1199,Corporate,United Kingdom,Bristol,Wales,19637,South,PROD-616,Furniture,Bookcases,Bookcases 675,935.65,3,0.08,85.93
+ORD-10234,2023-04-22,2023-04-29,Second Class,CUST-1638,Customer 1638,Home Office,United Kingdom,Bristol,England,26864,South,PROD-503,Technology,Accessories,Accessories 945,1159.55,3,0.2,187.83
+ORD-10235,2023-05-26,2023-05-27,Standard Class,CUST-1773,Customer 1773,Consumer,United Kingdom,Birmingham,Scotland,76731,Central,PROD-612,Office Supplies,Storage,Storage 474,92.53,2,0.08,15.42
+ORD-10236,2023-06-03,2023-06-05,Standard Class,CUST-1730,Customer 1730,Corporate,United Kingdom,Glasgow,Wales,78069,East,PROD-252,Furniture,Chairs,Chairs 240,499.47,2,0.07,55.01
+ORD-10237,2023-08-28,2023-09-04,First Class,CUST-1166,Customer 1166,Corporate,United Kingdom,Bristol,Scotland,49221,West,PROD-444,Office Supplies,Storage,Storage 426,103.68,3,0.34,10.5
+ORD-10238,2023-08-07,2023-08-12,Second Class,CUST-1486,Customer 1486,Consumer,United Kingdom,Manchester,Wales,98317,South,PROD-526,Technology,Machines,Machines 406,961.49,2,0.13,172.33
+ORD-10239,2023-04-04,2023-04-09,First Class,CUST-1027,Customer 1027,Home Office,United Kingdom,Leeds,Wales,95929,Central,PROD-691,Technology,Machines,Machines 744,572.21,3,0.17,91.73
+ORD-10240,2023-07-16,2023-07-21,Standard Class,CUST-1491,Customer 1491,Consumer,United Kingdom,Bristol,Scotland,91230,West,PROD-251,Technology,Phones,Phones 697,464.57,1,0.2,79.9
+ORD-10241,2023-05-28,2023-05-31,Standard Class,CUST-1112,Customer 1112,Consumer,United Kingdom,London,Wales,51116,West,PROD-255,Furniture,Bookcases,Bookcases 817,771.06,4,0.22,39.3
+ORD-10242,2023-03-17,2023-03-24,First Class,CUST-1513,Customer 1513,Home Office,United Kingdom,Leeds,Scotland,18163,South,PROD-241,Technology,Phones,Phones 520,251.31,1,0.03,46.27
+ORD-10243,2023-06-01,2023-06-06,Standard Class,CUST-1489,Customer 1489,Home Office,United Kingdom,Leeds,Wales,32699,West,PROD-645,Technology,Accessories,Accessories 778,623.67,3,0.1,114.51
+ORD-10244,2023-05-09,2023-05-11,First Class,CUST-1790,Customer 1790,Home Office,United Kingdom,Cardiff,Scotland,44650,Central,PROD-595,Technology,Accessories,Accessories 792,2620.69,4,0.13,475.97
+ORD-10245,2023-07-15,2023-07-16,First Class,CUST-1305,Customer 1305,Consumer,United Kingdom,Manchester,Wales,37168,West,PROD-821,Furniture,Tables,Tables 671,1117.98,4,0.27,49.3
+ORD-10246,2023-03-19,2023-03-23,First Class,CUST-1573,Customer 1573,Home Office,United Kingdom,Manchester,Wales,25974,South,PROD-792,Office Supplies,Binders,Binders 457,164.75,3,0.07,24.28
+ORD-10247,2023-05-20,2023-05-26,First Class,CUST-1823,Customer 1823,Consumer,United Kingdom,Manchester,England,47700,South,PROD-180,Office Supplies,Binders,Binders 891,59.19,3,0.07,8.67
+ORD-10248,2023-07-06,2023-07-12,Standard Class,CUST-1765,Customer 1765,Corporate,United Kingdom,Birmingham,England,80592,Central,PROD-675,Office Supplies,Storage,Storage 362,40.37,3,0.33,-2.89
+ORD-10249,2023-04-24,2023-04-28,First Class,CUST-1758,Customer 1758,Home Office,United Kingdom,Birmingham,England,16653,Central,PROD-643,Furniture,Chairs,Chairs 730,390.42,3,0.24,19.53
+ORD-10250,2023-06-19,2023-06-24,Second Class,CUST-1102,Customer 1102,Corporate,United Kingdom,Manchester,Scotland,71918,West,PROD-797,Technology,Phones,Phones 153,1346.76,3,0.21,203.71
+ORD-10251,2023-06-10,2023-06-14,Second Class,CUST-1416,Customer 1416,Home Office,United Kingdom,Leeds,Wales,95267,West,PROD-874,Furniture,Bookcases,Bookcases 261,1185.55,4,0.18,81.27
+ORD-10252,2023-06-22,2023-06-27,First Class,CUST-1060,Customer 1060,Consumer,United Kingdom,Cardiff,Scotland,40437,Central,PROD-856,Office Supplies,Binders,Binders 761,99.94,3,0.04,19.87
+ORD-10253,2023-12-10,2023-12-16,Second Class,CUST-1180,Customer 1180,Consumer,United Kingdom,Glasgow,Wales,74930,East,PROD-866,Furniture,Tables,Tables 957,220.02,2,0.23,3.32
+ORD-10254,2023-03-17,2023-03-22,Standard Class,CUST-1581,Customer 1581,Home Office,United Kingdom,London,Wales,47298,Central,PROD-756,Furniture,Chairs,Chairs 405,859.61,3,0.29,31.91
+ORD-10255,2023-06-24,2023-06-28,Second Class,CUST-1279,Customer 1279,Consumer,United Kingdom,Glasgow,England,53343,South,PROD-848,Furniture,Bookcases,Bookcases 579,758.47,4,0.26,36.46
+ORD-10256,2023-04-28,2023-05-03,First Class,CUST-1190,Customer 1190,Consumer,United Kingdom,Cardiff,Wales,48669,South,PROD-790,Technology,Accessories,Accessories 835,296.8,1,0.06,58.37
+ORD-10257,2023-07-08,2023-07-15,Standard Class,CUST-1654,Customer 1654,Corporate,United Kingdom,Glasgow,Wales,77538,West,PROD-188,Furniture,Bookcases,Bookcases 976,565.51,2,0.14,47.81
+ORD-10258,2023-02-23,2023-02-28,Standard Class,CUST-1143,Customer 1143,Corporate,United Kingdom,Manchester,England,10895,South,PROD-492,Technology,Phones,Phones 289,1543.09,3,0.02,330.89
+ORD-10259,2023-04-02,2023-04-07,Standard Class,CUST-1309,Customer 1309,Home Office,United Kingdom,Cardiff,Scotland,11498,West,PROD-769,Office Supplies,Binders,Binders 437,82.92,3,0.07,7.44
+ORD-10260,2023-05-05,2023-05-11,Standard Class,CUST-1683,Customer 1683,Consumer,United Kingdom,Leeds,Wales,30934,Central,PROD-802,Technology,Phones,Phones 163,1326.08,4,0.25,188.16
+ORD-10261,2023-03-10,2023-03-16,Second Class,CUST-1938,Customer 1938,Corporate,United Kingdom,Manchester,Scotland,38947,Central,PROD-236,Technology,Phones,Phones 754,1217.34,2,0.17,207.65
+ORD-10262,2023-06-18,2023-06-20,Standard Class,CUST-1620,Customer 1620,Corporate,United Kingdom,Leeds,Scotland,81989,South,PROD-875,Furniture,Tables,Tables 865,327.8,4,0.16,25.25
+ORD-10263,2023-07-11,2023-07-12,First Class,CUST-1610,Customer 1610,Consumer,United Kingdom,Bristol,Wales,79228,West,PROD-470,Furniture,Bookcases,Bookcases 872,993.44,3,0.24,50.17
+ORD-10264,2023-04-25,2023-04-30,First Class,CUST-1848,Customer 1848,Home Office,United Kingdom,Bristol,England,85065,East,PROD-253,Technology,Phones,Phones 163,1067.44,3,0.09,211.72
+ORD-10265,2023-02-20,2023-02-24,Standard Class,CUST-1119,Customer 1119,Home Office,United Kingdom,Birmingham,Scotland,86434,West,PROD-193,Office Supplies,Storage,Storage 552,145.04,3,0.24,17.94
+ORD-10266,2023-07-25,2023-07-26,First Class,CUST-1525,Customer 1525,Corporate,United Kingdom,Leeds,Scotland,17567,South,PROD-573,Furniture,Tables,Tables 235,225.11,3,0.38,1.11
+ORD-10267,2023-06-19,2023-06-26,Second Class,CUST-1260,Customer 1260,Consumer,United Kingdom,Cardiff,England,85800,Central,PROD-146,Technology,Phones,Phones 505,531.89,2,0.05,112.12
+ORD-10268,2023-08-14,2023-08-17,Standard Class,CUST-1554,Customer 1554,Consumer,United Kingdom,London,Wales,14159,South,PROD-518,Office Supplies,Storage,Storage 165,95.42,4,0.3,6.41
+ORD-10269,2023-05-13,2023-05-18,Standard Class,CUST-1661,Customer 1661,Corporate,United Kingdom,Manchester,Wales,68790,West,PROD-484,Furniture,Bookcases,Bookcases 846,629.44,3,0.03,69.05
+ORD-10270,2023-05-31,2023-06-07,Second Class,CUST-1552,Customer 1552,Consumer,United Kingdom,Cardiff,Wales,25549,East,PROD-650,Technology,Machines,Machines 995,1294.98,3,0.1,245.21
+ORD-10271,2023-05-19,2023-05-21,Standard Class,CUST-1228,Customer 1228,Consumer,United Kingdom,Glasgow,England,49107,South,PROD-789,Technology,Phones,Phones 845,1163.26,2,0.17,191.94
+ORD-10272,2023-04-03,2023-04-05,Standard Class,CUST-1235,Customer 1235,Consumer,United Kingdom,Leeds,Wales,30332,South,PROD-293,Technology,Accessories,Accessories 943,1027.63,2,0.06,208.47
+ORD-10273,2023-05-15,2023-05-19,Second Class,CUST-1629,Customer 1629,Consumer,United Kingdom,Birmingham,England,18819,East,PROD-708,Furniture,Bookcases,Bookcases 529,550.66,3,0.1,54.34
+ORD-10274,2023-02-27,2023-03-05,Standard Class,CUST-1720,Customer 1720,Consumer,United Kingdom,Birmingham,Scotland,15798,East,PROD-549,Office Supplies,Storage,Storage 788,132.65,5,0.08,22.08
+ORD-10275,2023-08-08,2023-08-09,Second Class,CUST-1884,Customer 1884,Consumer,United Kingdom,Birmingham,Scotland,47914,West,PROD-935,Technology,Phones,Phones 872,1898.18,4,0.11,362.26
+ORD-10276,2023-07-06,2023-07-09,First Class,CUST-1688,Customer 1688,Corporate,United Kingdom,Birmingham,Wales,28777,Central,PROD-633,Technology,Machines,Machines 891,296.27,1,0.14,56.87
+ORD-10277,2023-10-07,2023-10-11,First Class,CUST-1062,Customer 1062,Home Office,United Kingdom,Bristol,Scotland,32955,West,PROD-795,Office Supplies,Binders,Binders 381,117.64,2,0.33,10.85
+ORD-10278,2023-06-14,2023-06-21,First Class,CUST-1995,Customer 1995,Corporate,United Kingdom,Cardiff,Scotland,59958,South,PROD-426,Technology,Accessories,Accessories 148,849.68,3,0.01,192.55
+ORD-10279,2023-07-15,2023-07-19,Second Class,CUST-1385,Customer 1385,Consumer,United Kingdom,Glasgow,Scotland,72065,South,PROD-969,Office Supplies,Paper,Paper 407,81.82,2,0.16,14.21
+ORD-10280,2023-04-07,2023-04-08,Standard Class,CUST-1825,Customer 1825,Corporate,United Kingdom,London,Scotland,64090,West,PROD-670,Office Supplies,Storage,Storage 247,141.52,3,0.11,27.62
+ORD-10281,2023-08-09,2023-08-11,Standard Class,CUST-1208,Customer 1208,Corporate,United Kingdom,Cardiff,England,68954,West,PROD-194,Office Supplies,Paper,Paper 361,139.38,3,0.19,21.44
+ORD-10282,2023-04-10,2023-04-14,Second Class,CUST-1689,Customer 1689,Home Office,United Kingdom,Bristol,England,19539,West,PROD-923,Furniture,Tables,Tables 486,596.79,3,0.07,58.31
+ORD-10283,2023-05-23,2023-05-27,Second Class,CUST-1928,Customer 1928,Corporate,United Kingdom,Manchester,England,37762,West,PROD-859,Office Supplies,Paper,Paper 990,49.48,1,0.22,7.29
+ORD-10284,2023-03-22,2023-03-29,Second Class,CUST-1712,Customer 1712,Home Office,United Kingdom,Cardiff,England,61987,East,PROD-665,Technology,Accessories,Accessories 348,1005.79,2,0.07,200.78
+ORD-10285,2023-06-29,2023-06-30,Standard Class,CUST-1546,Customer 1546,Home Office,United Kingdom,Manchester,Wales,44283,Central,PROD-625,Office Supplies,Binders,Binders 577,145.47,3,0.16,14.95
+ORD-10286,2023-03-09,2023-03-11,Standard Class,CUST-1739,Customer 1739,Corporate,United Kingdom,Glasgow,Wales,36624,South,PROD-420,Office Supplies,Paper,Paper 922,108.33,3,0.25,11.19
+ORD-10287,2023-02-07,2023-02-11,First Class,CUST-1226,Customer 1226,Home Office,United Kingdom,Birmingham,England,44180,South,PROD-698,Furniture,Bookcases,Bookcases 984,218.7,1,0.12,27.09
+ORD-10288,2023-04-09,2023-04-13,Standard Class,CUST-1337,Customer 1337,Consumer,United Kingdom,Leeds,Scotland,42208,South,PROD-663,Office Supplies,Paper,Paper 300,36.94,1,0.13,1.9
+ORD-10289,2023-08-21,2023-08-24,First Class,CUST-1657,Customer 1657,Home Office,United Kingdom,Leeds,Wales,32050,Central,PROD-914,Office Supplies,Binders,Binders 840,29.79,2,0.2,5.52
+ORD-10290,2023-05-21,2023-05-27,Second Class,CUST-1559,Customer 1559,Corporate,United Kingdom,Birmingham,Scotland,94123,Central,PROD-636,Furniture,Chairs,Chairs 837,223.09,1,0.15,26.39
+ORD-10291,2023-06-14,2023-06-19,Second Class,CUST-1782,Customer 1782,Consumer,United Kingdom,Leeds,England,92667,East,PROD-169,Furniture,Bookcases,Bookcases 149,628.77,2,0.28,23.93
+ORD-10292,2024-01-23,2024-01-25,First Class,CUST-1466,Customer 1466,Corporate,United Kingdom,London,Scotland,93588,West,PROD-731,Furniture,Chairs,Chairs 617,271.05,1,0.32,8.2
+ORD-10293,2023-08-12,2023-08-15,Second Class,CUST-1006,Customer 1006,Home Office,United Kingdom,Bristol,Wales,11553,South,PROD-642,Technology,Accessories,Accessories 116,713.18,2,0.28,96.0
+ORD-10294,2023-03-11,2023-03-18,Second Class,CUST-1514,Customer 1514,Home Office,United Kingdom,Cardiff,Wales,33496,Central,PROD-198,Technology,Accessories,Accessories 117,845.97,2,0.07,165.89
+ORD-10295,2023-03-23,2023-03-26,Standard Class,CUST-1539,Customer 1539,Corporate,United Kingdom,Glasgow,Wales,45038,West,PROD-180,Furniture,Chairs,Chairs 734,367.24,2,0.32,6.84
+ORD-10296,2023-08-13,2023-08-14,Second Class,CUST-1249,Customer 1249,Home Office,United Kingdom,Birmingham,Wales,99658,Central,PROD-769,Office Supplies,Binders,Binders 678,86.44,2,0.29,15.32
+ORD-10297,2023-07-14,2023-07-15,Second Class,CUST-1386,Customer 1386,Home Office,United Kingdom,Leeds,England,93459,East,PROD-819,Furniture,Tables,Tables 488,569.78,3,0.41,-9.76
+ORD-10298,2023-07-05,2023-07-07,Second Class,CUST-1444,Customer 1444,Home Office,United Kingdom,Glasgow,Wales,84167,West,PROD-640,Furniture,Tables,Tables 965,264.3,1,0.25,5.81
+ORD-10299,2023-04-02,2023-04-07,Second Class,CUST-1708,Customer 1708,Home Office,United Kingdom,Leeds,Wales,16102,East,PROD-800,Furniture,Chairs,Chairs 988,444.42,2,0.07,44.15
+ORD-10300,2023-03-31,2023-04-02,Second Class,CUST-1033,Customer 1033,Consumer,United Kingdom,Glasgow,Wales,12052,Central,PROD-701,Technology,Machines,Machines 773,1560.8,4,0.12,289.85
+ORD-10301,2023-05-31,2023-06-05,Standard Class,CUST-1306,Customer 1306,Consumer,United Kingdom,Bristol,England,84277,West,PROD-793,Technology,Accessories,Accessories 178,278.4,1,0.18,40.05
+ORD-10302,2023-07-11,2023-07-15,First Class,CUST-1809,Customer 1809,Home Office,United Kingdom,Cardiff,England,75639,Central,PROD-454,Office Supplies,Storage,Storage 243,146.62,3,0.25,7.96
+ORD-10303,2023-07-29,2023-08-02,First Class,CUST-1858,Customer 1858,Consumer,United Kingdom,Manchester,Scotland,90460,East,PROD-506,Furniture,Tables,Tables 337,514.3,2,0.1,44.83
+ORD-10304,2023-06-12,2023-06-18,First Class,CUST-1802,Customer 1802,Corporate,United Kingdom,Leeds,England,56636,Central,PROD-484,Furniture,Bookcases,Bookcases 379,1301.13,3,0.05,136.28
+ORD-10305,2023-05-02,2023-05-06,Second Class,CUST-1676,Customer 1676,Corporate,United Kingdom,London,Scotland,48715,South,PROD-830,Furniture,Bookcases,Bookcases 699,639.61,4,0.19,46.94
+ORD-10306,2023-08-10,2023-08-15,First Class,CUST-1389,Customer 1389,Home Office,United Kingdom,Glasgow,Scotland,30221,East,PROD-498,Furniture,Tables,Tables 257,630.36,5,0.03,73.97
+ORD-10307,2023-06-05,2023-06-12,Second Class,CUST-1005,Customer 1005,Corporate,United Kingdom,Leeds,Wales,45358,Central,PROD-235,Office Supplies,Paper,Paper 193,44.41,1,0.01,10.61
+ORD-10308,2023-04-16,2023-04-18,Second Class,CUST-1570,Customer 1570,Home Office,United Kingdom,Bristol,Wales,23538,East,PROD-191,Furniture,Tables,Tables 559,961.1,3,0.11,86.88
+ORD-10309,2023-06-01,2023-06-07,Standard Class,CUST-1612,Customer 1612,Corporate,United Kingdom,Glasgow,Wales,11617,Central,PROD-523,Technology,Phones,Phones 711,1345.48,3,0.05,271.42
+ORD-10310,2023-07-31,2023-08-04,First Class,CUST-1926,Customer 1926,Consumer,United Kingdom,Bristol,Scotland,32227,South,PROD-489,Furniture,Bookcases,Bookcases 672,709.69,3,0.04,77.98
+ORD-10311,2023-08-20,2023-08-26,Standard Class,CUST-1274,Customer 1274,Corporate,United Kingdom,Birmingham,England,31916,West,PROD-382,Furniture,Tables,Tables 408,1144.98,3,0.39,2.69
+ORD-10312,2023-03-20,2023-03-27,Standard Class,CUST-1078,Customer 1078,Corporate,United Kingdom,Manchester,England,91924,South,PROD-708,Office Supplies,Binders,Binders 901,83.53,3,0.36,2.83
+ORD-10313,2023-10-01,2023-10-06,Standard Class,CUST-1311,Customer 1311,Consumer,United Kingdom,Leeds,Wales,91289,West,PROD-923,Office Supplies,Paper,Paper 238,151.24,4,0.11,18.5
+ORD-10314,2023-04-12,2023-04-18,Standard Class,CUST-1835,Customer 1835,Home Office,United Kingdom,Bristol,England,49378,Central,PROD-717,Office Supplies,Binders,Binders 540,109.57,2,0.28,8.28
+ORD-10315,2023-08-12,2023-08-17,Standard Class,CUST-1987,Customer 1987,Corporate,United Kingdom,Manchester,Wales,92955,West,PROD-689,Office Supplies,Binders,Binders 281,87.97,2,0.27,-0.88
+ORD-10316,2023-05-11,2023-05-17,Second Class,CUST-1836,Customer 1836,Corporate,United Kingdom,Manchester,England,83905,West,PROD-706,Office Supplies,Binders,Binders 387,81.73,3,0.06,9.01
+ORD-10317,2023-05-19,2023-05-26,Standard Class,CUST-1975,Customer 1975,Home Office,United Kingdom,Leeds,Scotland,37479,West,PROD-916,Technology,Machines,Machines 127,1240.41,4,0.12,229.33
+ORD-10318,2023-05-22,2023-05-24,First Class,CUST-1868,Customer 1868,Corporate,United Kingdom,Cardiff,Wales,28242,Central,PROD-410,Technology,Phones,Phones 938,506.04,3,0.1,95.89
+ORD-10319,2023-10-10,2023-10-13,Standard Class,CUST-1732,Customer 1732,Corporate,United Kingdom,Glasgow,Wales,19694,West,PROD-712,Office Supplies,Storage,Storage 257,87.94,2,0.11,17.55
+ORD-10320,2023-05-23,2023-05-24,Standard Class,CUST-1518,Customer 1518,Home Office,United Kingdom,Leeds,Scotland,14818,South,PROD-818,Technology,Accessories,Accessories 647,748.16,3,0.06,140.64
+ORD-10321,2023-07-23,2023-07-29,Second Class,CUST-1680,Customer 1680,Corporate,United Kingdom,Birmingham,Scotland,90304,East,PROD-676,Furniture,Chairs,Chairs 773,700.56,3,0.08,77.43
+ORD-10322,2023-04-10,2023-04-13,First Class,CUST-1010,Customer 1010,Consumer,United Kingdom,Manchester,England,76935,South,PROD-631,Office Supplies,Binders,Binders 208,164.58,3,0.04,38.99
+ORD-10323,2023-07-08,2023-07-09,Second Class,CUST-1474,Customer 1474,Home Office,United Kingdom,Bristol,Scotland,75597,West,PROD-453,Office Supplies,Binders,Binders 500,224.99,4,0.38,11.93
+ORD-10324,2023-07-20,2023-07-26,Standard Class,CUST-1425,Customer 1425,Consumer,United Kingdom,London,Scotland,28569,East,PROD-419,Office Supplies,Paper,Paper 402,96.83,2,0.14,18.36
+ORD-10325,2023-05-26,2023-05-31,First Class,CUST-1494,Customer 1494,Corporate,United Kingdom,Leeds,England,67431,Central,PROD-813,Office Supplies,Paper,Paper 633,134.74,4,0.35,4.56
+ORD-10326,2023-07-15,2023-07-22,First Class,CUST-1045,Customer 1045,Home Office,United Kingdom,London,England,54967,South,PROD-211,Office Supplies,Paper,Paper 407,130.98,3,0.09,23.51
+ORD-10327,2023-09-22,2023-09-25,Standard Class,CUST-1178,Customer 1178,Home Office,United Kingdom,Birmingham,Wales,83380,West,PROD-573,Technology,Phones,Phones 628,700.11,2,0.04,142.55
+ORD-10328,2023-04-08,2023-04-13,Second Class,CUST-1190,Customer 1190,Home Office,United Kingdom,Cardiff,Wales,61849,West,PROD-855,Office Supplies,Storage,Storage 288,68.36,3,0.08,9.97
+ORD-10329,2023-02-27,2023-03-01,Standard Class,CUST-1398,Customer 1398,Consumer,United Kingdom,Cardiff,England,36972,West,PROD-870,Office Supplies,Storage,Storage 539,92.13,2,0.11,18.47
+ORD-10330,2023-06-12,2023-06-15,Second Class,CUST-1892,Customer 1892,Home Office,United Kingdom,Birmingham,Wales,52727,East,PROD-568,Technology,Phones,Phones 918,998.33,3,0.04,210.55
+ORD-10331,2023-04-12,2023-04-15,Standard Class,CUST-1501,Customer 1501,Home Office,United Kingdom,Cardiff,Wales,88246,East,PROD-725,Office Supplies,Storage,Storage 983,120.69,3,0.17,19.08
+ORD-10332,2023-04-21,2023-04-28,First Class,CUST-1360,Customer 1360,Corporate,United Kingdom,Bristol,England,98288,South,PROD-919,Technology,Phones,Phones 456,820.45,2,0.0,178.64
+ORD-10333,2023-06-22,2023-06-27,Standard Class,CUST-1688,Customer 1688,Consumer,United Kingdom,Manchester,England,41270,Central,PROD-219,Technology,Machines,Machines 186,1506.07,4,0.26,209.02
+ORD-10334,2023-08-28,2023-09-04,First Class,CUST-1523,Customer 1523,Corporate,United Kingdom,Leeds,Scotland,28070,West,PROD-492,Office Supplies,Storage,Storage 244,76.53,2,0.07,15.25
+ORD-10335,2023-04-25,2023-04-29,Second Class,CUST-1550,Customer 1550,Home Office,United Kingdom,Cardiff,England,82733,South,PROD-601,Furniture,Tables,Tables 750,735.9,3,0.04,89.41
+ORD-10336,2023-05-29,2023-06-02,Second Class,CUST-1862,Customer 1862,Corporate,United Kingdom,Bristol,England,57059,Central,PROD-596,Furniture,Chairs,Chairs 422,313.91,1,0.27,18.6
+ORD-10337,2023-05-07,2023-05-08,Standard Class,CUST-1517,Customer 1517,Home Office,United Kingdom,Leeds,Wales,99744,West,PROD-525,Furniture,Tables,Tables 675,709.32,3,0.15,51.96
+ORD-10338,2023-06-11,2023-06-15,Second Class,CUST-1578,Customer 1578,Consumer,United Kingdom,Glasgow,England,48284,South,PROD-381,Office Supplies,Paper,Paper 184,103.73,2,0.17,15.27
+ORD-10339,2023-03-03,2023-03-09,First Class,CUST-1799,Customer 1799,Corporate,United Kingdom,Bristol,Scotland,74921,West,PROD-623,Technology,Accessories,Accessories 272,513.19,3,0.07,100.62
+ORD-10340,2023-06-29,2023-07-06,Second Class,CUST-1793,Customer 1793,Home Office,United Kingdom,Glasgow,Wales,81046,East,PROD-878,Technology,Phones,Phones 374,477.34,1,0.2,78.47
+ORD-10341,2023-03-18,2023-03-24,Standard Class,CUST-1104,Customer 1104,Home Office,United Kingdom,Glasgow,Scotland,42444,South,PROD-995,Technology,Phones,Phones 535,1247.85,3,0.22,186.76
+ORD-10342,2023-04-09,2023-04-13,Second Class,CUST-1882,Customer 1882,Consumer,United Kingdom,Leeds,England,41056,East,PROD-930,Office Supplies,Binders,Binders 456,132.1,3,0.6,-3.29
+ORD-10343,2023-05-31,2023-06-06,Second Class,CUST-1438,Customer 1438,Consumer,United Kingdom,Bristol,England,37082,Central,PROD-924,Technology,Machines,Machines 747,1041.61,3,0.14,185.76
+ORD-10344,2023-08-07,2023-08-10,First Class,CUST-1287,Customer 1287,Home Office,United Kingdom,Bristol,England,52421,East,PROD-399,Technology,Accessories,Accessories 645,2156.36,4,0.19,358.39
+ORD-10345,2023-05-03,2023-05-05,Standard Class,CUST-1526,Customer 1526,Home Office,United Kingdom,Glasgow,England,27771,Central,PROD-160,Technology,Accessories,Accessories 978,377.27,2,0.16,56.12
+ORD-10346,2023-05-27,2023-05-30,Second Class,CUST-1886,Customer 1886,Consumer,United Kingdom,Birmingham,England,52217,Central,PROD-879,Technology,Phones,Phones 818,401.71,1,0.03,88.22
+ORD-10347,2023-09-15,2023-09-20,Standard Class,CUST-1647,Customer 1647,Corporate,United Kingdom,Cardiff,Wales,59174,South,PROD-177,Office Supplies,Paper,Paper 691,68.27,2,0.28,10.32
+ORD-10348,2023-06-07,2023-06-09,Standard Class,CUST-1284,Customer 1284,Home Office,United Kingdom,Manchester,Wales,73968,East,PROD-695,Office Supplies,Storage,Storage 867,78.64,2,0.24,-0.33
+ORD-10349,2023-05-14,2023-05-19,Second Class,CUST-1995,Customer 1995,Corporate,United Kingdom,Cardiff,Scotland,56952,East,PROD-914,Technology,Phones,Phones 848,1297.5,3,0.19,206.65
+ORD-10350,2023-05-05,2023-05-11,Standard Class,CUST-1216,Customer 1216,Corporate,United Kingdom,Manchester,Wales,47171,South,PROD-660,Furniture,Tables,Tables 944,554.21,2,0.04,54.05
+ORD-10351,2023-05-03,2023-05-10,Second Class,CUST-1351,Customer 1351,Home Office,United Kingdom,Glasgow,England,16021,West,PROD-741,Technology,Accessories,Accessories 907,1290.53,3,0.16,227.21
+ORD-10352,2023-10-05,2023-10-08,Second Class,CUST-1161,Customer 1161,Corporate,United Kingdom,Leeds,England,66072,South,PROD-805,Furniture,Chairs,Chairs 978,635.09,3,0.13,50.65
+ORD-10353,2023-05-19,2023-05-22,Standard Class,CUST-1895,Customer 1895,Corporate,United Kingdom,London,Scotland,57242,West,PROD-184,Technology,Accessories,Accessories 262,807.46,2,0.07,162.41
+ORD-10354,2023-05-16,2023-05-19,Standard Class,CUST-1053,Customer 1053,Corporate,United Kingdom,Cardiff,Wales,40689,Central,PROD-771,Technology,Machines,Machines 269,2780.19,5,0.09,535.66
+ORD-10355,2023-04-03,2023-04-10,Second Class,CUST-1218,Customer 1218,Corporate,United Kingdom,London,England,87814,East,PROD-631,Technology,Phones,Phones 101,629.08,2,0.18,89.89
+ORD-10356,2023-04-28,2023-05-02,Standard Class,CUST-1351,Customer 1351,Consumer,United Kingdom,Glasgow,Wales,27324,South,PROD-172,Furniture,Chairs,Chairs 812,1164.65,3,0.11,109.75
+ORD-10357,2023-06-13,2023-06-15,Standard Class,CUST-1825,Customer 1825,Consumer,United Kingdom,London,Wales,58177,West,PROD-240,Office Supplies,Paper,Paper 848,118.48,4,0.39,10.08
+ORD-10358,2023-04-30,2023-05-04,First Class,CUST-1146,Customer 1146,Consumer,United Kingdom,Bristol,Scotland,11110,South,PROD-765,Furniture,Bookcases,Bookcases 793,826.61,3,0.1,75.04
+ORD-10359,2023-04-28,2023-05-04,First Class,CUST-1218,Customer 1218,Home Office,United Kingdom,Cardiff,England,63963,West,PROD-803,Office Supplies,Binders,Binders 839,50.72,1,0.16,18.1
+ORD-10360,2023-04-14,2023-04-16,Standard Class,CUST-1143,Customer 1143,Consumer,United Kingdom,Bristol,Scotland,60335,South,PROD-539,Furniture,Chairs,Chairs 202,1331.77,4,0.4,-3.29
+ORD-10361,2023-04-27,2023-05-04,First Class,CUST-1660,Customer 1660,Consumer,United Kingdom,Birmingham,Scotland,88774,Central,PROD-838,Furniture,Chairs,Chairs 383,587.04,3,0.23,27.67
+ORD-10362,2023-07-26,2023-07-27,First Class,CUST-1867,Customer 1867,Home Office,United Kingdom,Manchester,England,77862,Central,PROD-621,Technology,Phones,Phones 968,358.72,1,0.16,67.89
+ORD-10363,2023-09-01,2023-09-07,Standard Class,CUST-1661,Customer 1661,Consumer,United Kingdom,Glasgow,England,74865,West,PROD-215,Technology,Accessories,Accessories 402,844.37,3,0.05,171.01
+ORD-10364,2023-02-15,2023-02-16,Second Class,CUST-1072,Customer 1072,Home Office,United Kingdom,London,Wales,51480,West,PROD-496,Office Supplies,Storage,Storage 708,62.94,1,0.05,11.31
+ORD-10365,2023-07-30,2023-08-04,First Class,CUST-1176,Customer 1176,Corporate,United Kingdom,Glasgow,England,12187,South,PROD-169,Office Supplies,Storage,Storage 799,52.7,1,0.11,8.89
+ORD-10366,2023-02-20,2023-02-24,Standard Class,CUST-1944,Customer 1944,Consumer,United Kingdom,Glasgow,Wales,76402,East,PROD-743,Office Supplies,Paper,Paper 140,50.49,1,0.14,5.79
+ORD-10367,2023-05-30,2023-06-04,Second Class,CUST-1084,Customer 1084,Home Office,United Kingdom,Bristol,Scotland,90746,South,PROD-384,Office Supplies,Storage,Storage 511,243.27,4,0.37,12.98
+ORD-10368,2023-06-09,2023-06-12,Standard Class,CUST-1943,Customer 1943,Consumer,United Kingdom,Glasgow,England,80305,East,PROD-500,Office Supplies,Paper,Paper 623,108.22,3,0.05,18.47
+ORD-10369,2023-07-28,2023-08-04,Standard Class,CUST-1747,Customer 1747,Consumer,United Kingdom,London,England,21300,East,PROD-218,Office Supplies,Storage,Storage 547,83.74,4,0.05,13.66
+ORD-10370,2023-06-08,2023-06-10,Second Class,CUST-1316,Customer 1316,Home Office,United Kingdom,Cardiff,Scotland,33022,South,PROD-112,Technology,Machines,Machines 156,352.64,1,0.02,83.76
+ORD-10371,2023-07-17,2023-07-21,Second Class,CUST-1508,Customer 1508,Corporate,United Kingdom,Bristol,Scotland,43980,West,PROD-480,Technology,Phones,Phones 267,830.73,3,0.21,139.23
+ORD-10372,2023-05-20,2023-05-25,Standard Class,CUST-1907,Customer 1907,Consumer,United Kingdom,Glasgow,England,53910,West,PROD-378,Technology,Accessories,Accessories 850,1950.56,4,0.25,284.23
+ORD-10373,2023-03-05,2023-03-08,Standard Class,CUST-1642,Customer 1642,Consumer,United Kingdom,Leeds,Wales,76949,East,PROD-156,Office Supplies,Storage,Storage 690,161.47,5,0.07,31.58
+ORD-10374,2023-12-12,2023-12-14,First Class,CUST-1161,Customer 1161,Corporate,United Kingdom,Glasgow,England,85223,South,PROD-840,Technology,Phones,Phones 476,1135.34,3,0.03,234.73
+ORD-10375,2023-06-19,2023-06-22,Second Class,CUST-1002,Customer 1002,Consumer,United Kingdom,Glasgow,England,42053,East,PROD-583,Furniture,Bookcases,Bookcases 621,674.37,2,0.13,57.76
+ORD-10376,2023-06-02,2023-06-04,Standard Class,CUST-1953,Customer 1953,Consumer,United Kingdom,Bristol,Scotland,95944,Central,PROD-329,Office Supplies,Paper,Paper 283,115.07,3,0.11,13.95
+ORD-10377,2023-05-10,2023-05-14,Standard Class,CUST-1327,Customer 1327,Corporate,United Kingdom,Glasgow,England,84912,Central,PROD-222,Furniture,Tables,Tables 837,499.74,2,0.1,52.54
+ORD-10378,2023-09-17,2023-09-19,Standard Class,CUST-1528,Customer 1528,Consumer,United Kingdom,Leeds,England,70960,East,PROD-892,Furniture,Chairs,Chairs 923,864.94,3,0.47,-22.33
+ORD-10379,2023-04-28,2023-04-30,First Class,CUST-1467,Customer 1467,Consumer,United Kingdom,Manchester,England,48219,Central,PROD-903,Office Supplies,Paper,Paper 666,104.96,3,0.05,13.04
+ORD-10380,2023-03-25,2023-03-28,First Class,CUST-1475,Customer 1475,Corporate,United Kingdom,Bristol,Wales,35614,Central,PROD-659,Technology,Machines,Machines 348,1250.06,3,0.04,269.88
+ORD-10381,2023-03-10,2023-03-16,First Class,CUST-1024,Customer 1024,Consumer,United Kingdom,Bristol,Wales,93354,West,PROD-998,Furniture,Chairs,Chairs 519,1085.05,3,0.44,-12.04
+ORD-10382,2023-05-14,2023-05-16,Second Class,CUST-1673,Customer 1673,Corporate,United Kingdom,Glasgow,Scotland,50306,East,PROD-310,Office Supplies,Paper,Paper 877,84.19,4,0.09,14.87
+ORD-10383,2023-04-21,2023-04-28,Second Class,CUST-1995,Customer 1995,Consumer,United Kingdom,Cardiff,Wales,22193,West,PROD-337,Office Supplies,Binders,Binders 161,100.26,2,0.18,13.29
+ORD-10384,2023-04-16,2023-04-20,First Class,CUST-1997,Customer 1997,Home Office,United Kingdom,London,Scotland,22527,South,PROD-236,Technology,Accessories,Accessories 569,1281.53,3,0.09,247.47
+ORD-10385,2023-02-24,2023-02-26,Standard Class,CUST-1063,Customer 1063,Corporate,United Kingdom,Cardiff,England,41034,South,PROD-367,Furniture,Bookcases,Bookcases 681,997.8,3,0.14,89.19
+ORD-10386,2023-07-25,2023-08-01,Second Class,CUST-1753,Customer 1753,Corporate,United Kingdom,Manchester,Wales,45645,Central,PROD-176,Office Supplies,Storage,Storage 951,79.56,2,0.17,11.05
+ORD-10387,2023-08-25,2023-09-01,Standard Class,CUST-1159,Customer 1159,Consumer,United Kingdom,Birmingham,Wales,71086,West,PROD-516,Furniture,Bookcases,Bookcases 211,234.24,1,0.12,21.11
+ORD-10388,2023-02-02,2023-02-09,Second Class,CUST-1212,Customer 1212,Corporate,United Kingdom,Manchester,Wales,44735,East,PROD-192,Technology,Accessories,Accessories 888,465.83,2,0.51,29.6
+ORD-10389,2023-07-03,2023-07-04,Standard Class,CUST-1721,Customer 1721,Home Office,United Kingdom,Bristol,England,38183,West,PROD-251,Technology,Accessories,Accessories 946,1051.74,3,0.18,178.69
+ORD-10390,2023-05-15,2023-05-21,Standard Class,CUST-1405,Customer 1405,Home Office,United Kingdom,London,Scotland,49169,East,PROD-939,Technology,Phones,Phones 464,627.92,2,0.17,102.17
+ORD-10391,2023-05-27,2023-05-28,Second Class,CUST-1463,Customer 1463,Home Office,United Kingdom,Cardiff,Scotland,42748,West,PROD-573,Furniture,Tables,Tables 975,437.23,2,0.07,45.93
+ORD-10392,2023-05-24,2023-05-29,Standard Class,CUST-1063,Customer 1063,Consumer,United Kingdom,Birmingham,England,62505,East,PROD-802,Furniture,Chairs,Chairs 112,467.98,2,0.23,27.94
+ORD-10393,2023-05-17,2023-05-19,First Class,CUST-1939,Customer 1939,Consumer,United Kingdom,London,England,35919,East,PROD-554,Technology,Machines,Machines 365,2209.8,4,0.08,432.73
+ORD-10394,2023-10-15,2023-10-18,Standard Class,CUST-1043,Customer 1043,Corporate,United Kingdom,London,England,85220,West,PROD-941,Furniture,Tables,Tables 225,661.69,2,0.06,69.19
+ORD-10395,2023-06-09,2023-06-11,Second Class,CUST-1699,Customer 1699,Corporate,United Kingdom,Birmingham,Wales,38143,South,PROD-381,Office Supplies,Paper,Paper 491,148.23,3,0.41,9.28
+ORD-10396,2023-04-18,2023-04-23,Standard Class,CUST-1628,Customer 1628,Home Office,United Kingdom,Bristol,England,94840,Central,PROD-610,Office Supplies,Paper,Paper 135,51.83,2,0.07,15.73
+ORD-10397,2023-10-26,2023-10-27,Second Class,CUST-1089,Customer 1089,Corporate,United Kingdom,Leeds,England,64949,South,PROD-758,Technology,Accessories,Accessories 162,559.12,2,0.08,104.38
+ORD-10398,2023-08-24,2023-08-25,Standard Class,CUST-1019,Customer 1019,Corporate,United Kingdom,Glasgow,Scotland,57069,West,PROD-657,Technology,Machines,Machines 913,1498.1,3,0.07,307.17
+ORD-10399,2023-03-06,2023-03-07,Standard Class,CUST-1329,Customer 1329,Corporate,United Kingdom,Manchester,England,13416,South,PROD-711,Office Supplies,Storage,Storage 614,38.33,2,0.12,2.16
+ORD-10400,2023-05-28,2023-05-29,Second Class,CUST-1828,Customer 1828,Corporate,United Kingdom,Bristol,Wales,86544,West,PROD-263,Furniture,Tables,Tables 159,450.73,2,0.32,11.96
+ORD-10401,2023-03-27,2023-04-01,Second Class,CUST-1272,Customer 1272,Home Office,United Kingdom,Glasgow,Scotland,17328,East,PROD-689,Furniture,Bookcases,Bookcases 346,696.8,2,0.17,43.92
+ORD-10402,2023-04-13,2023-04-15,First Class,CUST-1242,Customer 1242,Home Office,United Kingdom,Manchester,Scotland,57026,South,PROD-128,Office Supplies,Paper,Paper 280,117.85,5,0.08,22.96
+ORD-10403,2023-07-14,2023-07-16,Standard Class,CUST-1576,Customer 1576,Consumer,United Kingdom,Glasgow,Wales,81057,Central,PROD-279,Technology,Machines,Machines 245,424.86,2,0.23,63.62
+ORD-10404,2023-08-04,2023-08-06,Standard Class,CUST-1238,Customer 1238,Home Office,United Kingdom,Birmingham,England,79002,South,PROD-100,Furniture,Chairs,Chairs 157,766.82,3,0.12,55.35
+ORD-10405,2023-03-23,2023-03-24,Second Class,CUST-1133,Customer 1133,Corporate,United Kingdom,Cardiff,England,52413,Central,PROD-122,Technology,Phones,Phones 925,1059.68,2,0.12,196.96
+ORD-10406,2023-07-15,2023-07-19,Second Class,CUST-1792,Customer 1792,Consumer,United Kingdom,Glasgow,Scotland,57826,West,PROD-482,Technology,Machines,Machines 245,1564.02,4,0.24,238.4
+ORD-10407,2023-04-13,2023-04-19,First Class,CUST-1309,Customer 1309,Corporate,United Kingdom,Birmingham,England,67261,South,PROD-598,Technology,Phones,Phones 444,214.86,1,0.09,41.85
+ORD-10408,2023-06-19,2023-06-20,First Class,CUST-1710,Customer 1710,Home Office,United Kingdom,Glasgow,Wales,39260,Central,PROD-703,Furniture,Bookcases,Bookcases 675,1028.49,3,0.29,34.49
+ORD-10409,2023-04-28,2023-05-03,First Class,CUST-1705,Customer 1705,Corporate,United Kingdom,Birmingham,England,10235,West,PROD-686,Office Supplies,Binders,Binders 851,166.1,5,0.18,22.75
+ORD-10410,2023-12-05,2023-12-08,First Class,CUST-1616,Customer 1616,Corporate,United Kingdom,Glasgow,Scotland,38953,South,PROD-679,Technology,Phones,Phones 286,1058.76,3,0.13,190.98
+ORD-10411,2023-03-22,2023-03-25,Second Class,CUST-1763,Customer 1763,Consumer,United Kingdom,Birmingham,Wales,51879,East,PROD-751,Office Supplies,Paper,Paper 439,114.88,3,0.16,11.55
+ORD-10412,2023-03-20,2023-03-26,Second Class,CUST-1746,Customer 1746,Corporate,United Kingdom,Leeds,England,44761,East,PROD-355,Technology,Machines,Machines 754,1485.93,3,0.11,277.66
+ORD-10413,2023-06-27,2023-07-04,Standard Class,CUST-1110,Customer 1110,Home Office,United Kingdom,London,England,60585,East,PROD-850,Office Supplies,Binders,Binders 905,123.28,3,0.27,11.45
+ORD-10414,2023-04-15,2023-04-22,Second Class,CUST-1902,Customer 1902,Corporate,United Kingdom,Manchester,Scotland,59197,South,PROD-948,Furniture,Tables,Tables 604,851.31,3,0.21,46.41
+ORD-10415,2023-03-23,2023-03-26,Second Class,CUST-1703,Customer 1703,Consumer,United Kingdom,Birmingham,Wales,19661,South,PROD-401,Technology,Machines,Machines 876,527.82,1,0.25,72.89
+ORD-10416,2023-06-19,2023-06-23,First Class,CUST-1075,Customer 1075,Corporate,United Kingdom,Birmingham,Wales,31090,East,PROD-176,Office Supplies,Binders,Binders 207,73.68,3,0.18,9.08
+ORD-10417,2023-04-11,2023-04-13,First Class,CUST-1914,Customer 1914,Corporate,United Kingdom,Cardiff,England,66534,East,PROD-268,Office Supplies,Storage,Storage 728,85.16,2,0.16,2.31
+ORD-10418,2023-06-25,2023-06-26,First Class,CUST-1339,Customer 1339,Consumer,United Kingdom,Birmingham,Wales,82628,South,PROD-847,Furniture,Chairs,Chairs 203,436.98,2,0.08,44.66
+ORD-10419,2023-07-23,2023-07-26,First Class,CUST-1243,Customer 1243,Consumer,United Kingdom,London,Wales,84943,Central,PROD-960,Technology,Accessories,Accessories 404,461.81,2,0.14,84.81
+ORD-10420,2023-05-30,2023-05-31,First Class,CUST-1003,Customer 1003,Corporate,United Kingdom,London,Wales,96772,South,PROD-714,Furniture,Chairs,Chairs 469,344.66,2,0.26,13.36
+ORD-10421,2023-07-16,2023-07-22,Standard Class,CUST-1211,Customer 1211,Consumer,United Kingdom,Cardiff,Wales,20739,South,PROD-964,Furniture,Chairs,Chairs 126,687.93,2,0.06,67.14
+ORD-10422,2023-06-08,2023-06-10,First Class,CUST-1500,Customer 1500,Home Office,United Kingdom,Manchester,England,94130,East,PROD-496,Office Supplies,Binders,Binders 582,39.21,2,0.21,9.17
+ORD-10423,2023-06-07,2023-06-14,Standard Class,CUST-1191,Customer 1191,Corporate,United Kingdom,London,Wales,67637,West,PROD-369,Office Supplies,Binders,Binders 478,22.95,1,0.08,1.09
+ORD-10424,2023-03-23,2023-03-30,First Class,CUST-1154,Customer 1154,Home Office,United Kingdom,Cardiff,England,21233,West,PROD-452,Office Supplies,Storage,Storage 163,72.95,2,0.06,5.58
+ORD-10425,2023-06-07,2023-06-13,First Class,CUST-1062,Customer 1062,Corporate,United Kingdom,Glasgow,Scotland,64870,South,PROD-803,Technology,Phones,Phones 666,1527.85,4,0.15,264.91
+ORD-10426,2023-06-11,2023-06-15,First Class,CUST-1306,Customer 1306,Consumer,United Kingdom,Leeds,Scotland,14551,South,PROD-684,Technology,Phones,Phones 587,1210.36,2,0.16,194.31
+ORD-10427,2023-04-30,2023-05-07,Second Class,CUST-1971,Customer 1971,Consumer,United Kingdom,Birmingham,England,26539,West,PROD-533,Furniture,Tables,Tables 277,606.17,3,0.11,44.74
+ORD-10428,2023-06-24,2023-06-29,Standard Class,CUST-1842,Customer 1842,Home Office,United Kingdom,Birmingham,Scotland,43801,East,PROD-844,Technology,Accessories,Accessories 306,1101.04,2,0.08,211.05
+ORD-10429,2023-09-01,2023-09-02,Standard Class,CUST-1406,Customer 1406,Home Office,United Kingdom,Manchester,Wales,78116,East,PROD-994,Furniture,Tables,Tables 669,442.58,2,0.12,36.51
+ORD-10430,2023-04-26,2023-05-03,Second Class,CUST-1535,Customer 1535,Corporate,United Kingdom,London,Wales,29613,East,PROD-680,Technology,Machines,Machines 701,359.99,3,0.23,57.96
+ORD-10431,2023-06-28,2023-07-01,Standard Class,CUST-1103,Customer 1103,Corporate,United Kingdom,Glasgow,Scotland,55071,East,PROD-370,Furniture,Bookcases,Bookcases 898,420.76,2,0.37,9.98
+ORD-10432,2023-06-16,2023-06-17,Standard Class,CUST-1623,Customer 1623,Corporate,United Kingdom,London,England,46099,South,PROD-247,Technology,Accessories,Accessories 685,1173.78,3,0.15,213.44
+ORD-10433,2023-05-31,2023-06-06,Standard Class,CUST-1707,Customer 1707,Consumer,United Kingdom,London,Scotland,72287,South,PROD-481,Furniture,Tables,Tables 439,77.62,1,0.34,-2.21
+ORD-10434,2023-05-11,2023-05-14,Second Class,CUST-1287,Customer 1287,Corporate,United Kingdom,Glasgow,Scotland,99764,East,PROD-989,Office Supplies,Binders,Binders 418,99.2,3,0.14,11.01
+ORD-10435,2023-05-04,2023-05-06,First Class,CUST-1453,Customer 1453,Corporate,United Kingdom,Manchester,Scotland,64627,West,PROD-761,Furniture,Tables,Tables 861,206.5,1,0.07,28.69
+ORD-10436,2023-07-04,2023-07-06,Standard Class,CUST-1935,Customer 1935,Corporate,United Kingdom,Cardiff,Wales,77698,East,PROD-940,Furniture,Tables,Tables 316,974.13,3,0.04,99.72
+ORD-10437,2023-03-06,2023-03-13,First Class,CUST-1318,Customer 1318,Home Office,United Kingdom,Bristol,Wales,27779,East,PROD-682,Technology,Phones,Phones 167,1136.84,3,0.23,164.13
+ORD-10438,2023-05-20,2023-05-22,Second Class,CUST-1852,Customer 1852,Consumer,United Kingdom,Glasgow,England,42701,East,PROD-567,Furniture,Chairs,Chairs 996,618.05,2,0.18,44.28
+ORD-10439,2023-05-05,2023-05-06,Standard Class,CUST-1280,Customer 1280,Corporate,United Kingdom,Glasgow,Wales,76207,East,PROD-750,Office Supplies,Storage,Storage 303,32.07,1,0.2,6.13
+ORD-10440,2023-09-01,2023-09-05,Standard Class,CUST-1381,Customer 1381,Corporate,United Kingdom,Bristol,Wales,33276,East,PROD-700,Technology,Phones,Phones 347,1336.67,3,0.1,262.04
+ORD-10441,2023-05-01,2023-05-05,Standard Class,CUST-1915,Customer 1915,Corporate,United Kingdom,Cardiff,Scotland,21847,Central,PROD-128,Office Supplies,Paper,Paper 957,93.48,3,0.04,8.21
+ORD-10442,2023-05-15,2023-05-20,Second Class,CUST-1585,Customer 1585,Consumer,United Kingdom,Glasgow,England,94853,South,PROD-793,Furniture,Chairs,Chairs 974,558.68,4,0.07,62.98
+ORD-10443,2023-08-04,2023-08-09,Standard Class,CUST-1525,Customer 1525,Consumer,United Kingdom,Glasgow,Scotland,11166,West,PROD-235,Office Supplies,Storage,Storage 519,77.25,3,0.12,18.72
+ORD-10444,2023-07-07,2023-07-11,Standard Class,CUST-1258,Customer 1258,Home Office,United Kingdom,Glasgow,Wales,94245,West,PROD-533,Technology,Phones,Phones 329,311.28,1,0.12,49.45
+ORD-10445,2023-08-06,2023-08-09,First Class,CUST-1223,Customer 1223,Corporate,United Kingdom,Manchester,Scotland,78241,South,PROD-506,Office Supplies,Binders,Binders 358,106.7,3,0.16,8.04
+ORD-10446,2023-05-05,2023-05-10,First Class,CUST-1989,Customer 1989,Corporate,United Kingdom,Bristol,Scotland,87826,East,PROD-389,Furniture,Bookcases,Bookcases 778,337.26,3,0.19,16.85
+ORD-10447,2023-08-11,2023-08-13,Standard Class,CUST-1065,Customer 1065,Corporate,United Kingdom,Manchester,Scotland,52616,Central,PROD-367,Technology,Phones,Phones 593,1476.78,3,0.08,299.53
+ORD-10448,2023-08-30,2023-09-01,First Class,CUST-1783,Customer 1783,Consumer,United Kingdom,London,Scotland,62965,Central,PROD-427,Furniture,Chairs,Chairs 629,817.73,3,0.06,80.67
+ORD-10449,2023-03-26,2023-03-27,Standard Class,CUST-1509,Customer 1509,Corporate,United Kingdom,Manchester,Wales,63031,West,PROD-854,Technology,Phones,Phones 771,1400.39,2,0.02,297.07
+ORD-10450,2023-06-25,2023-06-29,First Class,CUST-1835,Customer 1835,Consumer,United Kingdom,Manchester,Scotland,39145,East,PROD-647,Technology,Machines,Machines 685,1610.5,4,0.2,256.45
+ORD-10451,2023-07-23,2023-07-25,Second Class,CUST-1307,Customer 1307,Consumer,United Kingdom,Glasgow,Scotland,83170,South,PROD-400,Technology,Accessories,Accessories 619,361.56,1,0.31,46.01
+ORD-10452,2023-06-22,2023-06-28,First Class,CUST-1264,Customer 1264,Home Office,United Kingdom,Glasgow,Scotland,33995,East,PROD-443,Office Supplies,Paper,Paper 858,8.37,1,0.18,-0.56
+ORD-10453,2023-04-20,2023-04-22,Standard Class,CUST-1762,Customer 1762,Corporate,United Kingdom,Leeds,Wales,58717,East,PROD-699,Furniture,Tables,Tables 328,598.31,3,0.29,19.44
+ORD-10454,2023-04-18,2023-04-24,Second Class,CUST-1054,Customer 1054,Home Office,United Kingdom,Bristol,Scotland,91350,Central,PROD-583,Office Supplies,Paper,Paper 581,55.81,1,0.23,9.73
+ORD-10455,2024-02-09,2024-02-10,Second Class,CUST-1697,Customer 1697,Corporate,United Kingdom,Bristol,Wales,64146,West,PROD-991,Technology,Phones,Phones 988,690.16,3,0.15,123.36
+ORD-10456,2023-05-07,2023-05-09,First Class,CUST-1419,Customer 1419,Home Office,United Kingdom,Leeds,England,51469,West,PROD-284,Furniture,Chairs,Chairs 450,922.32,3,0.03,105.88
+ORD-10457,2024-02-18,2024-02-21,Standard Class,CUST-1181,Customer 1181,Corporate,United Kingdom,Cardiff,England,10617,East,PROD-380,Office Supplies,Binders,Binders 746,180.16,3,0.16,21.71
+ORD-10458,2023-07-30,2023-08-05,First Class,CUST-1162,Customer 1162,Corporate,United Kingdom,Glasgow,England,26961,West,PROD-544,Furniture,Bookcases,Bookcases 882,713.99,2,0.15,51.57
+ORD-10459,2023-04-06,2023-04-13,First Class,CUST-1392,Customer 1392,Consumer,United Kingdom,London,Scotland,36137,South,PROD-482,Office Supplies,Binders,Binders 588,120.29,2,0.35,12.35
+ORD-10460,2023-03-27,2023-04-03,Second Class,CUST-1018,Customer 1018,Home Office,United Kingdom,London,Scotland,42613,East,PROD-810,Office Supplies,Storage,Storage 295,31.82,2,0.12,12.98
+ORD-10461,2023-02-19,2023-02-20,Second Class,CUST-1392,Customer 1392,Home Office,United Kingdom,Bristol,Wales,31891,Central,PROD-943,Office Supplies,Paper,Paper 205,41.7,1,0.21,3.72
+ORD-10462,2023-03-12,2023-03-14,Standard Class,CUST-1745,Customer 1745,Home Office,United Kingdom,Bristol,Scotland,54280,East,PROD-803,Office Supplies,Binders,Binders 566,113.73,3,0.11,19.97
+ORD-10463,2023-07-19,2023-07-22,Second Class,CUST-1768,Customer 1768,Consumer,United Kingdom,Birmingham,Wales,12506,West,PROD-329,Office Supplies,Binders,Binders 467,64.54,2,0.15,15.95
+ORD-10464,2023-09-02,2023-09-05,First Class,CUST-1603,Customer 1603,Home Office,United Kingdom,Birmingham,England,58049,West,PROD-766,Furniture,Bookcases,Bookcases 122,766.79,4,0.45,-12.72
+ORD-10465,2023-02-19,2023-02-21,Second Class,CUST-1789,Customer 1789,Home Office,United Kingdom,Bristol,England,87846,East,PROD-777,Office Supplies,Storage,Storage 361,158.02,3,0.31,6.07
+ORD-10466,2023-06-27,2023-07-04,Second Class,CUST-1706,Customer 1706,Consumer,United Kingdom,Leeds,Wales,59840,East,PROD-660,Technology,Phones,Phones 149,1718.61,3,0.06,336.3
+ORD-10467,2023-04-20,2023-04-25,Standard Class,CUST-1210,Customer 1210,Home Office,United Kingdom,Cardiff,Scotland,11219,Central,PROD-530,Office Supplies,Storage,Storage 256,106.52,2,0.13,14.85
+ORD-10468,2023-08-03,2023-08-10,Second Class,CUST-1637,Customer 1637,Home Office,United Kingdom,Cardiff,England,64896,East,PROD-623,Technology,Machines,Machines 376,669.35,2,0.18,111.16
+ORD-10469,2023-03-19,2023-03-23,Standard Class,CUST-1108,Customer 1108,Corporate,United Kingdom,Birmingham,Scotland,36181,East,PROD-951,Office Supplies,Paper,Paper 903,114.5,3,0.35,3.76
+ORD-10470,2023-03-12,2023-03-14,Second Class,CUST-1302,Customer 1302,Consumer,United Kingdom,London,Scotland,75058,West,PROD-804,Office Supplies,Storage,Storage 519,61.48,2,0.07,10.08
+ORD-10471,2023-08-29,2023-08-30,First Class,CUST-1013,Customer 1013,Home Office,United Kingdom,London,England,85255,South,PROD-605,Office Supplies,Paper,Paper 102,102.76,3,0.26,20.15
+ORD-10472,2023-06-17,2023-06-18,Second Class,CUST-1740,Customer 1740,Home Office,United Kingdom,London,Wales,94454,West,PROD-567,Furniture,Bookcases,Bookcases 176,951.66,3,0.12,79.84
+ORD-10473,2023-08-01,2023-08-06,Standard Class,CUST-1102,Customer 1102,Consumer,United Kingdom,Glasgow,England,48085,Central,PROD-920,Office Supplies,Binders,Binders 151,60.71,3,0.2,4.15
+ORD-10474,2023-05-08,2023-05-15,First Class,CUST-1097,Customer 1097,Consumer,United Kingdom,London,England,96947,Central,PROD-274,Office Supplies,Storage,Storage 218,39.02,1,0.38,-0.67
+ORD-10475,2023-06-26,2023-07-03,Second Class,CUST-1274,Customer 1274,Home Office,United Kingdom,London,Wales,54921,Central,PROD-216,Office Supplies,Binders,Binders 736,253.81,4,0.18,33.73
+ORD-10476,2023-06-18,2023-06-25,First Class,CUST-1855,Customer 1855,Corporate,United Kingdom,Cardiff,Wales,65278,South,PROD-916,Office Supplies,Binders,Binders 378,22.59,2,0.13,2.98
+ORD-10477,2023-10-27,2023-10-28,Standard Class,CUST-1743,Customer 1743,Consumer,United Kingdom,Glasgow,England,23593,West,PROD-704,Furniture,Chairs,Chairs 812,560.37,3,0.18,26.49
+ORD-10478,2023-08-27,2023-09-01,Second Class,CUST-1185,Customer 1185,Home Office,United Kingdom,Leeds,Wales,90131,South,PROD-983,Technology,Machines,Machines 548,387.91,2,0.14,80.03
+ORD-10479,2023-05-25,2023-06-01,Standard Class,CUST-1908,Customer 1908,Corporate,United Kingdom,Leeds,England,18301,West,PROD-770,Office Supplies,Binders,Binders 215,107.04,3,0.19,16.04
+ORD-10480,2023-04-27,2023-04-28,First Class,CUST-1694,Customer 1694,Home Office,United Kingdom,Glasgow,Scotland,85582,Central,PROD-678,Furniture,Bookcases,Bookcases 989,613.93,2,0.21,32.01
+ORD-10481,2023-03-21,2023-03-27,Standard Class,CUST-1535,Customer 1535,Home Office,United Kingdom,Cardiff,Scotland,22483,West,PROD-777,Technology,Accessories,Accessories 631,1348.55,3,0.09,261.11
+ORD-10482,2023-05-26,2023-06-02,First Class,CUST-1692,Customer 1692,Home Office,United Kingdom,Leeds,England,83183,West,PROD-155,Office Supplies,Binders,Binders 779,173.9,4,0.11,30.43
+ORD-10483,2023-06-07,2023-06-13,Second Class,CUST-1869,Customer 1869,Corporate,United Kingdom,Glasgow,Wales,31679,East,PROD-869,Technology,Phones,Phones 617,1185.57,2,0.13,210.85
+ORD-10484,2023-04-07,2023-04-12,First Class,CUST-1993,Customer 1993,Corporate,United Kingdom,London,Scotland,39190,South,PROD-758,Office Supplies,Paper,Paper 438,163.44,3,0.04,24.06
+ORD-10485,2023-04-25,2023-04-28,Second Class,CUST-1470,Customer 1470,Corporate,United Kingdom,Glasgow,Scotland,68733,South,PROD-977,Office Supplies,Paper,Paper 180,26.3,1,0.16,8.58
+ORD-10486,2023-08-11,2023-08-15,Standard Class,CUST-1509,Customer 1509,Home Office,United Kingdom,Cardiff,England,23453,South,PROD-522,Office Supplies,Binders,Binders 221,59.44,2,0.16,4.55
+ORD-10487,2023-04-14,2023-04-20,First Class,CUST-1845,Customer 1845,Consumer,United Kingdom,Glasgow,Scotland,91142,East,PROD-411,Technology,Machines,Machines 100,1024.9,2,0.06,205.02
+ORD-10488,2023-08-11,2023-08-12,Standard Class,CUST-1973,Customer 1973,Corporate,United Kingdom,Manchester,England,39218,West,PROD-439,Technology,Machines,Machines 567,971.37,4,0.01,211.52
+ORD-10489,2023-10-17,2023-10-24,Second Class,CUST-1733,Customer 1733,Corporate,United Kingdom,London,England,96364,South,PROD-102,Technology,Machines,Machines 472,1182.95,3,0.03,242.88
+ORD-10490,2023-05-05,2023-05-06,Second Class,CUST-1298,Customer 1298,Home Office,United Kingdom,Bristol,Wales,23935,Central,PROD-268,Office Supplies,Storage,Storage 919,25.19,1,0.2,7.59
+ORD-10491,2023-03-28,2023-04-02,Second Class,CUST-1738,Customer 1738,Corporate,United Kingdom,London,Wales,90065,South,PROD-292,Furniture,Bookcases,Bookcases 860,957.42,5,0.2,54.7
+ORD-10492,2023-05-20,2023-05-27,Standard Class,CUST-1844,Customer 1844,Consumer,United Kingdom,Cardiff,Wales,24125,East,PROD-147,Office Supplies,Paper,Paper 568,179.36,4,0.18,32.81
+ORD-10493,2023-07-25,2023-07-30,First Class,CUST-1603,Customer 1603,Home Office,United Kingdom,Birmingham,Wales,10568,East,PROD-853,Office Supplies,Binders,Binders 774,105.38,3,0.09,19.05
+ORD-10494,2023-04-14,2023-04-19,Second Class,CUST-1599,Customer 1599,Corporate,United Kingdom,Bristol,England,85832,East,PROD-848,Technology,Accessories,Accessories 958,1119.79,3,0.12,205.13
+ORD-10495,2023-02-24,2023-02-28,Standard Class,CUST-1614,Customer 1614,Home Office,United Kingdom,Manchester,Scotland,60418,West,PROD-723,Furniture,Tables,Tables 773,286.55,1,0.24,9.4
+ORD-10496,2023-05-13,2023-05-16,Standard Class,CUST-1993,Customer 1993,Corporate,United Kingdom,Leeds,England,28111,West,PROD-716,Office Supplies,Binders,Binders 451,163.33,3,0.13,22.08
+ORD-10497,2023-04-10,2023-04-17,Second Class,CUST-1321,Customer 1321,Home Office,United Kingdom,Cardiff,Scotland,92913,Central,PROD-305,Technology,Machines,Machines 981,391.82,1,0.12,66.66
+ORD-10498,2023-03-27,2023-04-02,Second Class,CUST-1703,Customer 1703,Corporate,United Kingdom,Cardiff,England,95208,West,PROD-615,Technology,Machines,Machines 397,944.4,3,0.16,158.85
+ORD-10499,2023-05-20,2023-05-23,First Class,CUST-1360,Customer 1360,Home Office,United Kingdom,Leeds,Scotland,84794,Central,PROD-827,Technology,Phones,Phones 879,1000.89,3,0.2,152.25
+ORD-10500,2023-06-28,2023-06-30,First Class,CUST-1546,Customer 1546,Corporate,United Kingdom,Glasgow,Wales,11673,South,PROD-209,Technology,Machines,Machines 961,1784.94,3,0.2,289.5
+ORD-10501,2023-07-05,2023-07-10,Standard Class,CUST-1686,Customer 1686,Consumer,United Kingdom,Birmingham,Wales,31094,East,PROD-799,Office Supplies,Paper,Paper 154,124.47,3,0.06,21.61
+ORD-10502,2023-08-12,2023-08-14,Standard Class,CUST-1803,Customer 1803,Corporate,United Kingdom,Birmingham,Scotland,14234,Central,PROD-933,Furniture,Chairs,Chairs 807,127.65,1,0.08,17.91
+ORD-10503,2023-03-21,2023-03-23,First Class,CUST-1691,Customer 1691,Home Office,United Kingdom,Bristol,England,94819,South,PROD-498,Furniture,Bookcases,Bookcases 988,941.27,3,0.26,41.86
+ORD-10504,2023-06-12,2023-06-14,Standard Class,CUST-1709,Customer 1709,Home Office,United Kingdom,London,Wales,60797,West,PROD-907,Technology,Machines,Machines 394,1699.29,4,0.1,333.17
+ORD-10505,2023-04-22,2023-04-23,Second Class,CUST-1761,Customer 1761,Corporate,United Kingdom,Birmingham,Scotland,68073,Central,PROD-748,Technology,Phones,Phones 113,924.92,2,0.08,173.31
+ORD-10506,2023-04-23,2023-04-27,Standard Class,CUST-1617,Customer 1617,Consumer,United Kingdom,Glasgow,Scotland,35362,Central,PROD-559,Technology,Machines,Machines 856,638.41,2,0.08,123.72
+ORD-10507,2023-08-06,2023-08-10,Standard Class,CUST-1985,Customer 1985,Consumer,United Kingdom,Cardiff,Scotland,25643,West,PROD-141,Technology,Phones,Phones 291,279.28,2,0.07,50.36
+ORD-10508,2023-03-02,2023-03-09,Standard Class,CUST-1133,Customer 1133,Consumer,United Kingdom,Bristol,Wales,10739,South,PROD-577,Office Supplies,Storage,Storage 370,112.21,3,0.15,8.82
+ORD-10509,2023-11-01,2023-11-06,First Class,CUST-1611,Customer 1611,Consumer,United Kingdom,Glasgow,Scotland,90689,West,PROD-408,Furniture,Chairs,Chairs 430,541.22,3,0.1,44.15
+ORD-10510,2023-03-20,2023-03-24,Second Class,CUST-1074,Customer 1074,Home Office,United Kingdom,Manchester,Scotland,38830,South,PROD-633,Technology,Machines,Machines 466,1144.74,3,0.14,199.28
+ORD-10511,2023-05-04,2023-05-07,Second Class,CUST-1556,Customer 1556,Home Office,United Kingdom,Leeds,England,55796,East,PROD-318,Technology,Phones,Phones 525,460.1,1,0.1,91.39
+ORD-10512,2023-06-04,2023-06-08,First Class,CUST-1223,Customer 1223,Home Office,United Kingdom,Bristol,Wales,83575,Central,PROD-109,Office Supplies,Binders,Binders 400,55.04,2,0.3,1.09
+ORD-10513,2023-06-15,2023-06-19,Second Class,CUST-1246,Customer 1246,Home Office,United Kingdom,Bristol,Scotland,41958,East,PROD-798,Technology,Accessories,Accessories 556,1065.9,3,0.24,152.73
+ORD-10514,2023-07-06,2023-07-08,First Class,CUST-1262,Customer 1262,Home Office,United Kingdom,Cardiff,Wales,13238,Central,PROD-941,Office Supplies,Paper,Paper 495,173.36,4,0.16,31.48
+ORD-10515,2023-05-05,2023-05-06,Standard Class,CUST-1498,Customer 1498,Consumer,United Kingdom,Manchester,Scotland,35232,Central,PROD-626,Technology,Machines,Machines 556,1823.11,3,0.07,362.05
+ORD-10516,2023-05-25,2023-05-27,Second Class,CUST-1550,Customer 1550,Home Office,United Kingdom,London,Scotland,18581,East,PROD-786,Furniture,Chairs,Chairs 891,621.34,2,0.1,52.61
+ORD-10517,2023-03-18,2023-03-22,First Class,CUST-1106,Customer 1106,Consumer,United Kingdom,Bristol,Scotland,67047,West,PROD-936,Technology,Accessories,Accessories 955,2206.12,4,0.29,288.12
+ORD-10518,2023-05-31,2023-06-07,Second Class,CUST-1024,Customer 1024,Corporate,United Kingdom,Cardiff,Wales,14965,East,PROD-175,Technology,Machines,Machines 257,1127.38,2,0.04,223.64
+ORD-10519,2023-09-04,2023-09-07,Standard Class,CUST-1072,Customer 1072,Home Office,United Kingdom,Glasgow,England,43901,East,PROD-497,Furniture,Tables,Tables 671,631.72,2,0.16,49.67
+ORD-10520,2023-06-16,2023-06-20,First Class,CUST-1323,Customer 1323,Consumer,United Kingdom,Leeds,Scotland,25506,South,PROD-106,Technology,Accessories,Accessories 543,358.58,1,0.25,57.74
+ORD-10521,2023-09-13,2023-09-20,Standard Class,CUST-1717,Customer 1717,Consumer,United Kingdom,Manchester,Scotland,23911,East,PROD-905,Technology,Machines,Machines 146,836.94,2,0.29,111.91
+ORD-10522,2023-04-14,2023-04-15,Second Class,CUST-1783,Customer 1783,Corporate,United Kingdom,Leeds,Wales,96602,Central,PROD-585,Technology,Phones,Phones 388,1441.81,3,0.12,261.63
+ORD-10523,2023-05-02,2023-05-07,First Class,CUST-1764,Customer 1764,Corporate,United Kingdom,Glasgow,Scotland,48663,West,PROD-247,Technology,Phones,Phones 239,1619.87,4,0.11,303.57
+ORD-10524,2023-05-25,2023-05-26,Second Class,CUST-1382,Customer 1382,Consumer,United Kingdom,Bristol,Scotland,28530,Central,PROD-142,Technology,Machines,Machines 763,1990.71,4,0.1,376.28
+ORD-10525,2023-03-09,2023-03-14,First Class,CUST-1550,Customer 1550,Home Office,United Kingdom,London,Wales,37532,East,PROD-859,Technology,Machines,Machines 503,965.36,2,0.08,189.1
+ORD-10526,2023-05-14,2023-05-15,Second Class,CUST-1871,Customer 1871,Home Office,United Kingdom,Birmingham,England,34116,Central,PROD-731,Furniture,Tables,Tables 761,545.15,3,0.43,-7.26
+ORD-10527,2023-06-03,2023-06-09,Standard Class,CUST-1687,Customer 1687,Home Office,United Kingdom,Glasgow,England,81939,Central,PROD-760,Furniture,Chairs,Chairs 285,677.21,3,0.1,53.79
+ORD-10528,2023-02-23,2023-02-26,Standard Class,CUST-1256,Customer 1256,Consumer,United Kingdom,Birmingham,Scotland,86099,East,PROD-438,Office Supplies,Storage,Storage 168,99.75,2,0.05,24.28
+ORD-10529,2023-05-06,2023-05-09,Second Class,CUST-1240,Customer 1240,Consumer,United Kingdom,Manchester,Scotland,19149,Central,PROD-425,Furniture,Bookcases,Bookcases 771,522.79,2,0.13,47.43
+ORD-10530,2023-04-05,2023-04-08,First Class,CUST-1675,Customer 1675,Corporate,United Kingdom,Cardiff,Scotland,29974,South,PROD-680,Office Supplies,Binders,Binders 731,102.83,2,0.18,10.41
+ORD-10531,2023-05-29,2023-05-30,Standard Class,CUST-1004,Customer 1004,Corporate,United Kingdom,Birmingham,England,93995,Central,PROD-383,Office Supplies,Binders,Binders 272,56.91,2,0.18,7.54
+ORD-10532,2023-08-22,2023-08-25,Standard Class,CUST-1339,Customer 1339,Corporate,United Kingdom,Leeds,Wales,57020,Central,PROD-598,Furniture,Bookcases,Bookcases 850,1147.02,4,0.18,77.49
+ORD-10533,2023-05-29,2023-06-04,Second Class,CUST-1083,Customer 1083,Corporate,United Kingdom,Glasgow,England,80597,East,PROD-369,Furniture,Bookcases,Bookcases 721,267.22,1,0.23,13.72
+ORD-10534,2023-02-26,2023-03-03,First Class,CUST-1869,Customer 1869,Home Office,United Kingdom,Cardiff,England,86269,East,PROD-514,Technology,Phones,Phones 119,1561.16,4,0.0,353.44
+ORD-10535,2023-03-18,2023-03-21,Standard Class,CUST-1556,Customer 1556,Home Office,United Kingdom,Leeds,Scotland,29481,West,PROD-501,Furniture,Bookcases,Bookcases 366,446.23,2,0.18,26.07
+ORD-10536,2023-03-02,2023-03-08,Second Class,CUST-1297,Customer 1297,Consumer,United Kingdom,Leeds,Scotland,76900,West,PROD-506,Technology,Machines,Machines 977,84.12,3,0.15,9.29
+ORD-10537,2023-05-10,2023-05-17,Second Class,CUST-1244,Customer 1244,Home Office,United Kingdom,Cardiff,England,77388,Central,PROD-556,Technology,Phones,Phones 778,769.36,2,0.14,137.5
+ORD-10538,2023-04-16,2023-04-17,Standard Class,CUST-1675,Customer 1675,Consumer,United Kingdom,Cardiff,Scotland,73373,West,PROD-141,Furniture,Bookcases,Bookcases 679,909.65,3,0.24,43.17
+ORD-10539,2023-03-26,2023-03-31,Second Class,CUST-1270,Customer 1270,Corporate,United Kingdom,Birmingham,England,97632,West,PROD-630,Office Supplies,Paper,Paper 164,80.36,2,0.07,16.46
+ORD-10540,2023-02-07,2023-02-14,Second Class,CUST-1902,Customer 1902,Consumer,United Kingdom,London,Scotland,52476,Central,PROD-820,Office Supplies,Binders,Binders 565,159.0,3,0.09,21.03
+ORD-10541,2023-05-29,2023-06-04,Standard Class,CUST-1557,Customer 1557,Home Office,United Kingdom,Birmingham,Wales,95678,Central,PROD-474,Technology,Accessories,Accessories 692,1175.92,3,0.33,140.29
+ORD-10542,2023-04-01,2023-04-08,Standard Class,CUST-1996,Customer 1996,Consumer,United Kingdom,Bristol,Wales,56255,East,PROD-598,Technology,Accessories,Accessories 485,959.49,2,0.07,189.78
+ORD-10543,2023-03-17,2023-03-18,Second Class,CUST-1903,Customer 1903,Consumer,United Kingdom,Leeds,England,40145,South,PROD-626,Technology,Phones,Phones 613,739.97,4,0.14,128.82
+ORD-10544,2023-02-21,2023-02-26,First Class,CUST-1161,Customer 1161,Corporate,United Kingdom,Bristol,Scotland,25509,Central,PROD-335,Furniture,Chairs,Chairs 291,598.92,2,0.09,57.77
+ORD-10545,2023-09-02,2023-09-09,First Class,CUST-1493,Customer 1493,Home Office,United Kingdom,Leeds,Wales,37617,South,PROD-265,Office Supplies,Storage,Storage 216,56.52,2,0.08,7.17
+ORD-10546,2023-09-26,2023-09-30,First Class,CUST-1130,Customer 1130,Home Office,United Kingdom,Bristol,England,27658,South,PROD-624,Furniture,Chairs,Chairs 144,365.74,3,0.14,22.6
+ORD-10547,2023-05-24,2023-05-28,First Class,CUST-1170,Customer 1170,Corporate,United Kingdom,Birmingham,Scotland,63143,East,PROD-677,Technology,Phones,Phones 157,2437.86,4,0.26,347.42
+ORD-10548,2023-09-20,2023-09-26,First Class,CUST-1841,Customer 1841,Corporate,United Kingdom,London,England,68877,East,PROD-582,Technology,Machines,Machines 777,2159.86,4,0.25,311.74
+ORD-10549,2023-04-17,2023-04-23,First Class,CUST-1420,Customer 1420,Home Office,United Kingdom,Birmingham,Scotland,33839,South,PROD-775,Furniture,Chairs,Chairs 950,866.79,3,0.07,94.75
+ORD-10550,2023-07-06,2023-07-12,Second Class,CUST-1350,Customer 1350,Corporate,United Kingdom,Bristol,Scotland,19023,Central,PROD-487,Furniture,Bookcases,Bookcases 802,622.47,2,0.13,52.04
+ORD-10551,2023-03-08,2023-03-13,Standard Class,CUST-1207,Customer 1207,Home Office,United Kingdom,Glasgow,Scotland,99701,South,PROD-946,Furniture,Chairs,Chairs 116,419.86,2,0.08,47.11
+ORD-10552,2023-04-23,2023-04-30,First Class,CUST-1487,Customer 1487,Home Office,United Kingdom,Bristol,England,79655,West,PROD-870,Technology,Phones,Phones 281,688.17,2,0.6,24.55
+ORD-10553,2023-04-09,2023-04-14,First Class,CUST-1133,Customer 1133,Home Office,United Kingdom,Bristol,England,98940,East,PROD-541,Furniture,Tables,Tables 775,496.79,2,0.14,43.61
+ORD-10554,2023-02-16,2023-02-18,Standard Class,CUST-1542,Customer 1542,Corporate,United Kingdom,Birmingham,Wales,59969,South,PROD-703,Office Supplies,Paper,Paper 814,88.03,2,0.21,1.59
+ORD-10555,2023-03-18,2023-03-25,First Class,CUST-1488,Customer 1488,Consumer,United Kingdom,Glasgow,England,47128,East,PROD-997,Office Supplies,Paper,Paper 360,43.21,1,0.05,-2.18
+ORD-10556,2023-03-14,2023-03-18,First Class,CUST-1726,Customer 1726,Home Office,United Kingdom,Glasgow,England,85757,South,PROD-220,Office Supplies,Paper,Paper 105,104.51,3,0.04,12.27
+ORD-10557,2023-07-12,2023-07-15,Second Class,CUST-1704,Customer 1704,Corporate,United Kingdom,Leeds,Wales,23970,East,PROD-536,Office Supplies,Storage,Storage 310,52.69,2,0.21,7.36
+ORD-10558,2023-04-20,2023-04-27,Standard Class,CUST-1578,Customer 1578,Corporate,United Kingdom,Bristol,Wales,99208,Central,PROD-873,Office Supplies,Storage,Storage 533,34.82,1,0.14,9.94
+ORD-10559,2023-05-10,2023-05-14,First Class,CUST-1570,Customer 1570,Corporate,United Kingdom,Birmingham,Wales,83281,West,PROD-595,Office Supplies,Storage,Storage 902,51.79,1,0.02,15.01
+ORD-10560,2023-04-08,2023-04-12,First Class,CUST-1792,Customer 1792,Home Office,United Kingdom,Leeds,Scotland,28096,Central,PROD-221,Office Supplies,Storage,Storage 452,56.63,1,0.17,4.26
+ORD-10561,2023-04-02,2023-04-09,First Class,CUST-1102,Customer 1102,Consumer,United Kingdom,Bristol,Wales,54359,West,PROD-728,Office Supplies,Storage,Storage 265,138.83,3,0.16,17.15
+ORD-10562,2023-08-07,2023-08-10,First Class,CUST-1005,Customer 1005,Consumer,United Kingdom,Glasgow,England,71822,East,PROD-545,Furniture,Tables,Tables 751,340.52,2,0.21,19.42
+ORD-10563,2023-08-11,2023-08-17,Standard Class,CUST-1379,Customer 1379,Consumer,United Kingdom,Bristol,England,60374,East,PROD-728,Furniture,Tables,Tables 327,480.46,3,0.23,25.91
+ORD-10564,2023-05-07,2023-05-08,Second Class,CUST-1968,Customer 1968,Consumer,United Kingdom,Cardiff,Wales,67536,Central,PROD-306,Technology,Machines,Machines 158,968.52,3,0.08,186.54
+ORD-10565,2023-07-16,2023-07-17,First Class,CUST-1613,Customer 1613,Home Office,United Kingdom,Bristol,Scotland,40365,Central,PROD-273,Furniture,Chairs,Chairs 902,820.35,3,0.29,22.83
+ORD-10566,2023-05-10,2023-05-13,Standard Class,CUST-1000,Customer 1000,Consumer,United Kingdom,London,Wales,62354,East,PROD-785,Office Supplies,Paper,Paper 770,56.13,1,0.34,3.67
+ORD-10567,2023-05-24,2023-05-27,Second Class,CUST-1530,Customer 1530,Consumer,United Kingdom,Cardiff,Scotland,18993,South,PROD-662,Office Supplies,Storage,Storage 305,134.95,3,0.08,20.71
+ORD-10568,2023-03-26,2023-03-30,First Class,CUST-1356,Customer 1356,Corporate,United Kingdom,Glasgow,Wales,39661,Central,PROD-299,Technology,Machines,Machines 696,755.38,2,0.06,157.82
+ORD-10569,2023-08-30,2023-08-31,First Class,CUST-1267,Customer 1267,Consumer,United Kingdom,Leeds,Scotland,23954,South,PROD-174,Office Supplies,Storage,Storage 104,135.45,3,0.03,24.23
+ORD-10570,2023-08-08,2023-08-15,First Class,CUST-1525,Customer 1525,Corporate,United Kingdom,Bristol,Scotland,42786,Central,PROD-553,Office Supplies,Paper,Paper 922,204.0,4,0.35,6.84
+ORD-10571,2023-09-20,2023-09-22,Standard Class,CUST-1249,Customer 1249,Corporate,United Kingdom,Glasgow,Wales,99337,South,PROD-700,Technology,Accessories,Accessories 888,1270.03,2,0.02,271.24
+ORD-10572,2023-09-10,2023-09-11,First Class,CUST-1069,Customer 1069,Corporate,United Kingdom,Cardiff,England,98724,East,PROD-335,Office Supplies,Paper,Paper 364,130.72,3,0.53,-0.85
+ORD-10573,2023-04-14,2023-04-21,Standard Class,CUST-1548,Customer 1548,Consumer,United Kingdom,Cardiff,Wales,42539,Central,PROD-195,Office Supplies,Binders,Binders 628,71.95,2,0.04,13.22
+ORD-10574,2023-05-19,2023-05-25,Standard Class,CUST-1350,Customer 1350,Consumer,United Kingdom,Bristol,England,72463,South,PROD-462,Technology,Machines,Machines 940,879.87,3,0.12,159.31
+ORD-10575,2023-06-30,2023-07-01,First Class,CUST-1969,Customer 1969,Home Office,United Kingdom,Cardiff,England,75404,West,PROD-304,Technology,Accessories,Accessories 287,1170.49,2,0.21,184.45
+ORD-10576,2023-02-25,2023-02-28,First Class,CUST-1271,Customer 1271,Consumer,United Kingdom,Birmingham,England,42728,West,PROD-464,Technology,Phones,Phones 993,803.39,3,0.32,96.84
+ORD-10577,2023-05-20,2023-05-26,First Class,CUST-1692,Customer 1692,Home Office,United Kingdom,Leeds,Scotland,10868,West,PROD-143,Furniture,Chairs,Chairs 180,291.21,2,0.44,-7.65
+ORD-10578,2023-04-06,2023-04-10,Second Class,CUST-1504,Customer 1504,Home Office,United Kingdom,Glasgow,Wales,74330,South,PROD-882,Office Supplies,Storage,Storage 422,87.93,3,0.21,17.34
+ORD-10579,2023-07-07,2023-07-11,Standard Class,CUST-1590,Customer 1590,Consumer,United Kingdom,London,Scotland,65466,Central,PROD-653,Office Supplies,Paper,Paper 868,171.84,4,0.07,20.3
+ORD-10580,2023-03-16,2023-03-20,Second Class,CUST-1881,Customer 1881,Home Office,United Kingdom,Glasgow,England,69925,East,PROD-815,Technology,Accessories,Accessories 503,420.47,1,0.16,61.81
+ORD-10581,2023-03-22,2023-03-27,Second Class,CUST-1012,Customer 1012,Home Office,United Kingdom,Birmingham,Wales,86153,South,PROD-433,Office Supplies,Storage,Storage 108,73.43,2,0.12,13.91
+ORD-10582,2023-06-20,2023-06-21,First Class,CUST-1561,Customer 1561,Corporate,United Kingdom,Birmingham,Wales,71780,Central,PROD-451,Technology,Accessories,Accessories 291,1341.35,3,0.17,224.43
+ORD-10583,2023-04-10,2023-04-17,Standard Class,CUST-1215,Customer 1215,Corporate,United Kingdom,Cardiff,Wales,57851,Central,PROD-386,Furniture,Tables,Tables 534,655.08,2,0.09,55.04
+ORD-10584,2023-12-12,2023-12-13,Second Class,CUST-1589,Customer 1589,Home Office,United Kingdom,Birmingham,England,45382,South,PROD-668,Furniture,Bookcases,Bookcases 234,209.95,2,0.3,10.1
+ORD-10585,2023-04-04,2023-04-05,Second Class,CUST-1819,Customer 1819,Home Office,United Kingdom,Birmingham,Wales,11276,South,PROD-531,Office Supplies,Paper,Paper 249,117.69,4,0.36,2.83
+ORD-10586,2023-03-19,2023-03-23,Standard Class,CUST-1546,Customer 1546,Home Office,United Kingdom,Manchester,Wales,49326,South,PROD-675,Furniture,Bookcases,Bookcases 629,823.77,3,0.07,89.66
+ORD-10587,2023-06-20,2023-06-26,First Class,CUST-1167,Customer 1167,Consumer,United Kingdom,Birmingham,Wales,72460,East,PROD-198,Office Supplies,Paper,Paper 807,37.59,1,0.14,6.08
+ORD-10588,2023-04-28,2023-05-04,Standard Class,CUST-1369,Customer 1369,Corporate,United Kingdom,Bristol,Scotland,43779,South,PROD-120,Technology,Accessories,Accessories 366,1654.13,3,0.09,312.82
+ORD-10589,2023-07-27,2023-07-30,First Class,CUST-1695,Customer 1695,Home Office,United Kingdom,Birmingham,Scotland,85483,South,PROD-764,Furniture,Tables,Tables 988,824.23,4,0.11,75.56
+ORD-10590,2023-02-25,2023-02-26,Second Class,CUST-1689,Customer 1689,Home Office,United Kingdom,Leeds,Scotland,68580,West,PROD-490,Office Supplies,Binders,Binders 432,78.88,4,0.12,12.57
+ORD-10591,2023-06-03,2023-06-04,First Class,CUST-1889,Customer 1889,Consumer,United Kingdom,Cardiff,Wales,65288,Central,PROD-727,Office Supplies,Storage,Storage 248,86.98,2,0.1,1.4
+ORD-10592,2023-05-06,2023-05-08,Standard Class,CUST-1351,Customer 1351,Consumer,United Kingdom,Manchester,Wales,95591,South,PROD-827,Furniture,Chairs,Chairs 265,444.93,2,0.15,41.41
+ORD-10593,2023-07-14,2023-07-15,First Class,CUST-1277,Customer 1277,Corporate,United Kingdom,Glasgow,Wales,86928,Central,PROD-561,Technology,Machines,Machines 504,1264.77,3,0.16,215.99
+ORD-10594,2023-08-01,2023-08-08,Standard Class,CUST-1023,Customer 1023,Consumer,United Kingdom,Cardiff,England,96772,South,PROD-861,Furniture,Chairs,Chairs 974,634.76,2,0.07,67.54
+ORD-10595,2023-02-15,2023-02-19,Second Class,CUST-1105,Customer 1105,Consumer,United Kingdom,London,Wales,81884,East,PROD-126,Furniture,Chairs,Chairs 506,135.47,1,0.12,7.69
+ORD-10596,2023-02-17,2023-02-24,Standard Class,CUST-1268,Customer 1268,Home Office,United Kingdom,Birmingham,England,95830,South,PROD-416,Technology,Phones,Phones 206,689.91,2,0.09,130.82
+ORD-10597,2023-07-24,2023-07-28,Second Class,CUST-1453,Customer 1453,Home Office,United Kingdom,Birmingham,England,79041,West,PROD-129,Furniture,Bookcases,Bookcases 390,449.43,3,0.14,36.93
+ORD-10598,2023-04-26,2023-04-28,First Class,CUST-1937,Customer 1937,Corporate,United Kingdom,Glasgow,Wales,71235,East,PROD-378,Technology,Accessories,Accessories 981,622.95,3,0.07,121.01
+ORD-10599,2023-02-28,2023-03-02,First Class,CUST-1181,Customer 1181,Home Office,United Kingdom,Bristol,Wales,92712,South,PROD-751,Furniture,Bookcases,Bookcases 652,623.41,2,0.32,19.51
