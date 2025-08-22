@@ -7,7 +7,7 @@ st.set_page_config(page_title="SME Sales Insights", layout="wide")
 
 @st.cache_data
 def load_data():
-    return pd.read_csv("data/superstore_sample.csv", parse_dates=["Order Date","Ship Date"])
+    return pd.read_csv("superstore_sample.csv", parse_dates=["Order Date","Ship Date"])
 
 df = load_data()
 
